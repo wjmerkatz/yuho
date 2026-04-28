@@ -1,4 +1,5 @@
 code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asofdate,ratio_basis
+1801,https://www.taisei.co.jp/ir/stock/stockinformation/,discovered,-52,発行済株式総数,163185872.0,100.0,1.0,163185872.0,2026-03-31,as_reported
 1801,https://www.taisei.co.jp/ir/stock/stockinformation/,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),25245.0,15.47,1000.0,25245000.0,2026-03-31,as_reported
 1801,https://www.taisei.co.jp/ir/stock/stockinformation/,discovered,2,株式会社日本カストディ銀行(信託口),9827.0,6.02,1000.0,9827000.0,2026-03-31,as_reported
 1801,https://www.taisei.co.jp/ir/stock/stockinformation/,discovered,3,大成建設取引先持株会,6185.0,3.79,1000.0,6185000.0,2026-03-31,as_reported
@@ -9,6 +10,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 1801,https://www.taisei.co.jp/ir/stock/stockinformation/,discovered,8,明治安田生命保険相互会社,2847.0,1.75,1000.0,2847000.0,2026-03-31,as_reported
 1801,https://www.taisei.co.jp/ir/stock/stockinformation/,discovered,9,三菱地所株式会社,2426.0,1.49,1000.0,2426000.0,2026-03-31,as_reported
 1801,https://www.taisei.co.jp/ir/stock/stockinformation/,discovered,10,ジェーピー モルガン チェース バンク 385781,2136.0,1.31,1000.0,2136000.0,2026-03-31,as_reported
+1801,https://www.taisei.co.jp/ir/stock/stockinformation/,discovered,61,"出資比率は発行済株式総数より自己株式(47,872株)を控除して計算しております。",47872.0,0.02933587289958533,1.0,47872.0,2026-03-31,vs_issued
+1803,https://www.shimz.co.jp/company/ir/stock/info/,discovered,-52,発行済株式総数,716689413.0,100.0,1.0,716689413.0,2026-03-31,as_reported
 1803,https://www.shimz.co.jp/company/ir/stock/info/,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),89462.0,13.17,1000.0,89462000.0,2026-03-31,as_reported
 1803,https://www.shimz.co.jp/company/ir/stock/info/,discovered,2,清水地所株式会社,82730.0,12.18,1000.0,82730000.0,2026-03-31,as_reported
 1803,https://www.shimz.co.jp/company/ir/stock/info/,discovered,3,社会福祉法人清水基金,38767.0,5.71,1000.0,38767000.0,2026-03-31,as_reported
@@ -19,7 +22,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 1803,https://www.shimz.co.jp/company/ir/stock/info/,discovered,8,富国生命保険相互会社,13552.0,2.0,1000.0,13552000.0,2026-03-31,as_reported
 1803,https://www.shimz.co.jp/company/ir/stock/info/,discovered,9,株式会社日本カストディ銀行(金銭信託課税口),10741.0,1.58,1000.0,10741000.0,2026-03-31,as_reported
 1803,https://www.shimz.co.jp/company/ir/stock/info/,discovered,10,JP MORGAN CHASE BANK 385642,9303.0,1.37,1000.0,9303000.0,2026-03-31,as_reported
-1803,https://www.shimz.co.jp/company/ir/stock/info/,discovered,61,"(注)持株比率は、自己株式(37,488,136株)を控除して計算しています。",37488136.0,5.518753785070756,1.0,37488136.0,2026-03-31,proxy_via_top_holder
+1803,https://www.shimz.co.jp/company/ir/stock/info/,discovered,61,"(注)持株比率は、自己株式(37,488,136株)を控除して計算しています。",37488136.0,5.23073667895803,1.0,37488136.0,2026-03-31,vs_issued
+1820,https://www.nishimatsu.co.jp/ir/stock/situation.html,discovered,-52,発行済株式総数,41791502.0,100.0,1.0,41791502.0,2026-03-31,as_reported
 1820,https://www.nishimatsu.co.jp/ir/stock/situation.html,discovered,1,伊藤忠商事株式会社,8700300.0,21.92,1.0,8700300.0,2026-03-31,as_reported
 1820,https://www.nishimatsu.co.jp/ir/stock/situation.html,discovered,2,日本マスタートラスト信託銀行株式会社(信託口),4639100.0,11.69,1.0,4639100.0,2026-03-31,as_reported
 1820,https://www.nishimatsu.co.jp/ir/stock/situation.html,discovered,3,株式会社日本カストディ銀行(信託口),2543900.0,6.41,1.0,2543900.0,2026-03-31,as_reported
@@ -30,6 +34,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 1820,https://www.nishimatsu.co.jp/ir/stock/situation.html,discovered,8,株式会社日本カストディ銀行(信託口4),457600.0,1.15,1.0,457600.0,2026-03-31,as_reported
 1820,https://www.nishimatsu.co.jp/ir/stock/situation.html,discovered,9,STATE STREET BANK AND TRUST COMPANY 505001,422434.0,1.06,1.0,422434.0,2026-03-31,as_reported
 1820,https://www.nishimatsu.co.jp/ir/stock/situation.html,discovered,10,JP MORGAN CHASE BANK 385781,411683.0,1.04,1.0,411683.0,2026-03-31,as_reported
+1820,https://www.nishimatsu.co.jp/ir/stock/situation.html,discovered,61,"(注)当社は自己株式2,097,672株を保有しておりますが、上記大株主から除いております。また、持株比率は、自己株式を控除して計算しております。",2097672.0,5.019374513028989,1.0,2097672.0,2026-03-31,vs_issued
+1860,https://www.toda.co.jp/ir/overview/,discovered,-52,発行済株式総数 (tanshin),322656796.0,100.0,1.0,322656796.0,2026-03-31,from_tanshin
 1860,https://www.toda.co.jp/ir/overview/,discovered,1,大一殖産株式会社,42923653.0,14.32,1.0,42923653.0,2026-03-31,as_reported
 1860,https://www.toda.co.jp/ir/overview/,discovered,2,日本マスタートラスト信託銀行株式会社(信託口),33224000.0,11.09,1.0,33224000.0,2026-03-31,as_reported
 1860,https://www.toda.co.jp/ir/overview/,discovered,3,株式会社日本カストディ銀行(信託口),10492300.0,3.5,1.0,10492300.0,2026-03-31,as_reported
@@ -40,6 +46,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 1860,https://www.toda.co.jp/ir/overview/,discovered,8,戸田建設自社株投資会,5831941.0,1.95,1.0,5831941.0,2026-03-31,as_reported
 1860,https://www.toda.co.jp/ir/overview/,discovered,9,戸田建設取引先持株会,5823184.0,1.94,1.0,5823184.0,2026-03-31,as_reported
 1860,https://www.toda.co.jp/ir/overview/,discovered,10,株式会社ヤクルト本社,4955556.0,1.65,1.0,4955556.0,2026-03-31,as_reported
+1860,https://www.toda.co.jp/ir/overview/,discovered,61,"上記のほかに当社所有の自己株式18,330千株があります。",18330.0,6.115173841331725,1000.0,18330000.0,2026-03-31,proxy_via_top_holder
+1925,https://www.daiwahouse.co.jp/ir/information/?page=from_header,discovered,-52,発行済株式総数,659636182.0,100.0,1.0,659636182.0,2026-03-31,as_reported
 1925,https://www.daiwahouse.co.jp/ir/information/?page=from_header,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),99643.0,16.09,1000.0,99643000.0,2026-03-31,as_reported
 1925,https://www.daiwahouse.co.jp/ir/information/?page=from_header,discovered,2,株式会社日本カストディ銀行(信託口),34834.0,5.62,1000.0,34834000.0,2026-03-31,as_reported
 1925,https://www.daiwahouse.co.jp/ir/information/?page=from_header,discovered,3,STATE STREET BANK AND TRUST COMPANY 505001,15982.0,2.58,1000.0,15982000.0,2026-03-31,as_reported
@@ -50,7 +58,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 1925,https://www.daiwahouse.co.jp/ir/information/?page=from_header,discovered,8,日本生命保険相互会社,8361.0,1.35,1000.0,8361000.0,2026-03-31,as_reported
 1925,https://www.daiwahouse.co.jp/ir/information/?page=from_header,discovered,9,全国共済農業協同組合連合会,7389.0,1.19,1000.0,7389000.0,2026-03-31,as_reported
 1925,https://www.daiwahouse.co.jp/ir/information/?page=from_header,discovered,10,CEP LUX-ORBIS SICAV,7297.0,1.18,1000.0,7297000.0,2026-03-31,as_reported
-1925,https://www.daiwahouse.co.jp/ir/information/?page=from_header,discovered,61,"(注2)当社は自己株式40,289千株を保有しておりますが、上記大株主からは除いております。",40289.0,6.505725540178436,1000.0,40289000.0,2026-03-31,proxy_via_top_holder
+1925,https://www.daiwahouse.co.jp/ir/information/?page=from_header,discovered,61,"(注2)当社は自己株式40,289千株を保有しておりますが、上記大株主からは除いております。",40289.0,6.1077607777433895,1000.0,40289000.0,2026-03-31,vs_issued
+2296,https://www.itoham-yonekyu-holdings.com/ir/stockinfo/basicinfo.html,discovered,-52,発行済株式の総数,57471011.0,100.0,1.0,57471011.0,2026-03-31,as_reported
 2296,https://www.itoham-yonekyu-holdings.com/ir/stockinfo/basicinfo.html,discovered,1,三菱商事株式会社,23155.0,40.29,1000.0,23155000.0,2026-03-31,as_reported
 2296,https://www.itoham-yonekyu-holdings.com/ir/stockinfo/basicinfo.html,discovered,2,日本マスタートラスト信託銀行株式会社(信託口),3651.0,6.35,1000.0,3651000.0,2026-03-31,as_reported
 2296,https://www.itoham-yonekyu-holdings.com/ir/stockinfo/basicinfo.html,discovered,3,公益財団法人伊藤記念財団,2400.0,4.17,1000.0,2400000.0,2026-03-31,as_reported
@@ -61,6 +70,7 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 2296,https://www.itoham-yonekyu-holdings.com/ir/stockinfo/basicinfo.html,discovered,8,伊藤 功一,552.0,0.96,1000.0,552000.0,2026-03-31,as_reported
 2296,https://www.itoham-yonekyu-holdings.com/ir/stockinfo/basicinfo.html,discovered,9,日本生命保険相互会社,549.0,0.95,1000.0,549000.0,2026-03-31,as_reported
 2296,https://www.itoham-yonekyu-holdings.com/ir/stockinfo/basicinfo.html,discovered,10,STATE STREET BANK AND TRUST COMPANY 505103,469.0,0.81,1000.0,469000.0,2026-03-31,as_reported
+2359,https://www.core.co.jp/ir/stock,discovered,-52,発行済株式の総数,14834580.0,100.0,1.0,14834580.0,2026-03-31,as_reported
 2359,https://www.core.co.jp/ir/stock,discovered,1,株式会社タネムラコーポレーション,2095.0,14.1,1000.0,2095000.0,2026-03-31,as_reported
 2359,https://www.core.co.jp/ir/stock,discovered,2,株式会社シージー・エンタープライズ,1872.0,12.6,1000.0,1872000.0,2026-03-31,as_reported
 2359,https://www.core.co.jp/ir/stock,discovered,3,コア従業員持株会,1036.0,6.9,1000.0,1036000.0,2026-03-31,as_reported
@@ -71,6 +81,7 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 2359,https://www.core.co.jp/ir/stock,discovered,8,牛嶋 友美,367.0,2.4,1000.0,367000.0,2026-03-31,as_reported
 2359,https://www.core.co.jp/ir/stock,discovered,9,種村 美那子,356.0,2.4,1000.0,356000.0,2026-03-31,as_reported
 2359,https://www.core.co.jp/ir/stock,discovered,10,神山 恵美子,355.0,2.3,1000.0,355000.0,2026-03-31,as_reported
+2579,https://www.ccbj-holdings.com/ir/stockholder/situation.php,discovered,-52,発行済株式総数,171269.0,100.0,1000.0,171269000.0,2026-03-31,as_reported
 2579,https://www.ccbj-holdings.com/ir/stockholder/situation.php,discovered,1,日本コカ・コーラ株式会社,27956.0,16.785,1000.0,27956000.0,2026-03-31,as_reported
 2579,https://www.ccbj-holdings.com/ir/stockholder/situation.php,discovered,2,The Coca-Cola Export Corporation,18607.0,11.172,1000.0,18607000.0,2026-03-31,as_reported
 2579,https://www.ccbj-holdings.com/ir/stockholder/situation.php,discovered,3,日本マスタートラスト信託銀行株式会社(信託口),17942.0,10.772,1000.0,17942000.0,2026-03-31,as_reported
@@ -81,7 +92,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 2579,https://www.ccbj-holdings.com/ir/stockholder/situation.php,discovered,8,薩摩酒造株式会社,3848.0,2.31,1000.0,3848000.0,2026-03-31,as_reported
 2579,https://www.ccbj-holdings.com/ir/stockholder/situation.php,discovered,9,State Street Bank and Trust Company 505001,2363.0,1.418,1000.0,2363000.0,2026-03-31,as_reported
 2579,https://www.ccbj-holdings.com/ir/stockholder/situation.php,discovered,10,株式会社MCAホールディングス,2130.0,1.278,1000.0,2130000.0,2026-03-31,as_reported
-2579,https://www.ccbj-holdings.com/ir/stockholder/situation.php,discovered,61,"(注)当社保有の自己株式 4,723千株につきましては、上記の表および持株比率の計算より除いております。",4723.0,2.8357259622263555,1000.0,4723000.0,2026-03-31,proxy_via_top_holder
+2579,https://www.ccbj-holdings.com/ir/stockholder/situation.php,discovered,61,"(注)当社保有の自己株式 4,723千株につきましては、上記の表および持株比率の計算より除いております。",4723.0,2.757650246104082,1000.0,4723000.0,2026-03-31,vs_issued
+3099,https://www.imhds.co.jp/corporate/ir/stockholder/situation.html,discovered,-52,発行済株式総数,367446554.0,100.0,1.0,367446554.0,2026-03-31,as_reported
 3099,https://www.imhds.co.jp/corporate/ir/stockholder/situation.html,discovered,1,日本マスタ―トラスト信託銀行株式会社(信託口),59120600.0,16.82,1.0,59120600.0,2026-03-31,as_reported
 3099,https://www.imhds.co.jp/corporate/ir/stockholder/situation.html,discovered,2,株式会社日本カストディ銀行(信託口),21586200.0,6.14,1.0,21586200.0,2026-03-31,as_reported
 3099,https://www.imhds.co.jp/corporate/ir/stockholder/situation.html,discovered,3,JP MORGAN CHASE BANK 385642,13630099.0,3.88,1.0,13630099.0,2026-03-31,as_reported
@@ -92,6 +104,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 3099,https://www.imhds.co.jp/corporate/ir/stockholder/situation.html,discovered,8,明治安田生命保険相互会社,5697279.0,1.62,1.0,5697279.0,2026-03-31,as_reported
 3099,https://www.imhds.co.jp/corporate/ir/stockholder/situation.html,discovered,9,JP MORGAN CHASE BANK 385781,4664037.0,1.33,1.0,4664037.0,2026-03-31,as_reported
 3099,https://www.imhds.co.jp/corporate/ir/stockholder/situation.html,discovered,10,STATE STREET BANK AND TRUST COMPANY 505001,4500731.0,1.28,1.0,4500731.0,2026-03-31,as_reported
+3099,https://www.imhds.co.jp/corporate/ir/stockholder/situation.html,discovered,61,"持株比率は、自己株式(15,894,387株)を控除して計算し、小数点第3位を四捨五入しております。",15894387.0,4.325632347609389,1.0,15894387.0,2026-03-31,vs_issued
+3182,https://www.oisixradaichi.co.jp/investors/stock/basic_info/,discovered,-52,発行済株式の総数,36940000.0,100.0,1.0,36940000.0,2026-03-31,as_reported
 3182,https://www.oisixradaichi.co.jp/investors/stock/basic_info/,discovered,1,高島 宏平,4847200.0,13.96,1.0,4847200.0,2026-03-31,as_reported
 3182,https://www.oisixradaichi.co.jp/investors/stock/basic_info/,discovered,2,STATE STREET BANK AND TRUST COMPANY 505001,2922559.0,8.41,1.0,2922559.0,2026-03-31,as_reported
 3182,https://www.oisixradaichi.co.jp/investors/stock/basic_info/,discovered,3,日本マスタートラスト信託銀行株式会社(信託口),2759900.0,7.95,1.0,2759900.0,2026-03-31,as_reported
@@ -102,7 +116,9 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 3182,https://www.oisixradaichi.co.jp/investors/stock/basic_info/,discovered,8,株式会社NTTドコモ,1000000.0,2.88,1.0,1000000.0,2026-03-31,as_reported
 3182,https://www.oisixradaichi.co.jp/investors/stock/basic_info/,discovered,9,株式会社リクルート,1000000.0,2.88,1.0,1000000.0,2026-03-31,as_reported
 3182,https://www.oisixradaichi.co.jp/investors/stock/basic_info/,discovered,10,NORTHERN TRUST CO.,925242.0,2.66,1.0,925242.0,2026-03-31,as_reported
-3182,https://www.oisixradaichi.co.jp/investors/stock/basic_info/,discovered,61,"当社は、2026年3 月31日時点で自己株式2,207,156株を保有していますが、上記株主からは除外しています。",2207156.0,6.356638422181878,1.0,2207156.0,2026-03-31,proxy_via_top_holder
+3182,https://www.oisixradaichi.co.jp/investors/stock/basic_info/,discovered,61,"発行済株式の総数のうち、全体の5.97%に当たる2,207,156株を自己株式として保有しています。",2207156.0,5.974975636166757,1.0,2207156.0,2026-03-31,vs_issued
+3182,https://www.oisixradaichi.co.jp/investors/stock/basic_info/,discovered,61,"当社は、2026年3 月31日時点で自己株式2,207,156株を保有していますが、上記株主からは除外しています。",2207156.0,5.974975636166757,1.0,2207156.0,2026-03-31,vs_issued
+3231,https://www.nomura-re-hd.co.jp/ir/stock-information/stump.html,discovered,-52,発行済株式総数 (tanshin),917895685.0,100.0,1.0,917895685.0,2026-03-31,from_tanshin
 3231,https://www.nomura-re-hd.co.jp/ir/stock-information/stump.html,discovered,1,野村ホールディングス株式会社,323887500.0,37.08,1.0,323887500.0,2026-03-31,as_reported
 3231,https://www.nomura-re-hd.co.jp/ir/stock-information/stump.html,discovered,2,日本マスタートラスト信託銀行株式会社(信託口),96723600.0,11.07,1.0,96723600.0,2026-03-31,as_reported
 3231,https://www.nomura-re-hd.co.jp/ir/stock-information/stump.html,discovered,3,株式会社日本カストディ銀行(信託口),57054400.0,6.53,1.0,57054400.0,2026-03-31,as_reported
@@ -113,6 +129,7 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 3231,https://www.nomura-re-hd.co.jp/ir/stock-information/stump.html,discovered,8,STATE STREET BANK AND TRUST COMPANY 505103,11477702.0,1.31,1.0,11477702.0,2026-03-31,as_reported
 3231,https://www.nomura-re-hd.co.jp/ir/stock-information/stump.html,discovered,9,STATE STREET BANK AND TRUST COMPANY 505001,8967021.0,1.02,1.0,8967021.0,2026-03-31,as_reported
 3231,https://www.nomura-re-hd.co.jp/ir/stock-information/stump.html,discovered,10,STICHTING PENSIOENFONDS ZORG EN WELZIJN,8942902.0,1.02,1.0,8942902.0,2026-03-31,as_reported
+3388,https://www.meijidenki.co.jp/ja/ir/stock_info.html,discovered,-52,発行済株式総数,12765820.0,100.0,1.0,12765820.0,2026-03-31,as_reported
 3388,https://www.meijidenki.co.jp/ja/ir/stock_info.html,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),1334.0,10.5,1000.0,1334000.0,2026-03-31,as_reported
 3388,https://www.meijidenki.co.jp/ja/ir/stock_info.html,discovered,2,合同会社ワイコーポレーション,1220.0,9.6,1000.0,1220000.0,2026-03-31,as_reported
 3388,https://www.meijidenki.co.jp/ja/ir/stock_info.html,discovered,3,明治電機工業従業員持株会,558.0,4.4,1000.0,558000.0,2026-03-31,as_reported
@@ -123,6 +140,9 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 3388,https://www.meijidenki.co.jp/ja/ir/stock_info.html,discovered,8,三井住友信託銀行株式会社,300.0,2.4,1000.0,300000.0,2026-03-31,as_reported
 3388,https://www.meijidenki.co.jp/ja/ir/stock_info.html,discovered,9,安井 博子,295.0,2.3,1000.0,295000.0,2026-03-31,as_reported
 3388,https://www.meijidenki.co.jp/ja/ir/stock_info.html,discovered,10,森田 操,250.0,2.0,1000.0,250000.0,2026-03-31,as_reported
+3388,https://www.meijidenki.co.jp/ja/ir/stock_info.html,discovered,61,自己株式,13165.0,0.10312694366676015,1.0,13165.0,2026-03-31,vs_issued
+3388,https://www.meijidenki.co.jp/ja/ir/stock_info.html,discovered,61,※上記のほか、当社所有の自己株式13千株(0.1%)があります。,13.0,0.10183442975069364,1000.0,13000.0,2026-03-31,vs_issued
+3401,https://www.teijin.co.jp/ir/stocks/data/,discovered,-52,発行済株式総数,197953707.0,100.0,1.0,197953707.0,2026-03-31,as_reported
 3401,https://www.teijin.co.jp/ir/stocks/data/,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),29667500.0,15.37,1.0,29667500.0,2026-03-31,as_reported
 3401,https://www.teijin.co.jp/ir/stocks/data/,discovered,2,GOLDMAN SACHS INTERNATIONAL,13278158.0,6.88,1.0,13278158.0,2026-03-31,as_reported
 3401,https://www.teijin.co.jp/ir/stocks/data/,discovered,3,株式会社日本カストディ銀行(信託口),9082600.0,4.7,1.0,9082600.0,2026-03-31,as_reported
@@ -133,6 +153,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 3401,https://www.teijin.co.jp/ir/stocks/data/,discovered,8,JP JPMSE LUX RE CITIGROUP GLOBAL MARKETS L EQ CO,5347632.0,2.77,1.0,5347632.0,2026-03-31,as_reported
 3401,https://www.teijin.co.jp/ir/stocks/data/,discovered,9,JPMSPLC CLIENT ASSETS SK JPY,5134200.0,2.66,1.0,5134200.0,2026-03-31,as_reported
 3401,https://www.teijin.co.jp/ir/stocks/data/,discovered,10,BNY GCM CLIENT ACCOUNT JPRD AC ISG (FE-AC),3939141.0,2.04,1.0,3939141.0,2026-03-31,as_reported
+3401,https://www.teijin.co.jp/ir/stocks/data/,discovered,61,"持株比率は、自己株式(5,037,805株)を控除して計算しています。",5037805.0,2.544940974507742,1.0,5037805.0,2026-03-31,vs_issued
+3580,https://www.komatsumatere.co.jp/ir/basic/,discovered,-52,発行済株式総数,39240999.0,100.0,1.0,39240999.0,2026-03-31,as_reported
 3580,https://www.komatsumatere.co.jp/ir/basic/,discovered,1,THE SFP VALUE REALIZATION MASTER FUND LIMITED,3968000.0,10.36,1.0,3968000.0,2026-03-31,as_reported
 3580,https://www.komatsumatere.co.jp/ir/basic/,discovered,2,東レ株式会社,3749367.0,9.79,1.0,3749367.0,2026-03-31,as_reported
 3580,https://www.komatsumatere.co.jp/ir/basic/,discovered,3,日本マスタートラスト信託銀行株式会社(信託口),2926800.0,7.64,1.0,2926800.0,2026-03-31,as_reported
@@ -143,6 +165,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 3580,https://www.komatsumatere.co.jp/ir/basic/,discovered,8,三谷産業株式会社,892000.0,2.32,1.0,892000.0,2026-03-31,as_reported
 3580,https://www.komatsumatere.co.jp/ir/basic/,discovered,9,第一生命保険株式会社,775113.0,2.02,1.0,775113.0,2026-03-31,as_reported
 3580,https://www.komatsumatere.co.jp/ir/basic/,discovered,10,三井住友信託銀行株式会社,730000.0,1.9,1.0,730000.0,2026-03-31,as_reported
+3580,https://www.komatsumatere.co.jp/ir/basic/,discovered,61,自己株数,956463.0,2.437407365699329,1.0,956463.0,2026-03-31,vs_issued
+4005,https://www.sumitomo-chem.co.jp/ir/stocks/information/,discovered,-52,発行済株式総数,1657914399.0,100.0,1.0,1657914399.0,2026-03-31,as_reported
 4005,https://www.sumitomo-chem.co.jp/ir/stocks/information/,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),236121.0,14.29,1000.0,236121000.0,2026-03-31,as_reported
 4005,https://www.sumitomo-chem.co.jp/ir/stocks/information/,discovered,2,株式会社日本カストディ銀行(信託口),91814.0,5.55,1000.0,91814000.0,2026-03-31,as_reported
 4005,https://www.sumitomo-chem.co.jp/ir/stocks/information/,discovered,3,住友生命保険相互会社,71182.0,4.31,1000.0,71182000.0,2026-03-31,as_reported
@@ -153,6 +177,7 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 4005,https://www.sumitomo-chem.co.jp/ir/stocks/information/,discovered,8,株式会社日本カストディ銀行(三井住友信託銀行再信託分・住友生命保険相互会社退職給付信託口),29000.0,1.75,1000.0,29000000.0,2026-03-31,as_reported
 4005,https://www.sumitomo-chem.co.jp/ir/stocks/information/,discovered,9,STATE STREET BANK AND TRUST COMPANY 505001,25999.0,1.57,1000.0,25999000.0,2026-03-31,as_reported
 4005,https://www.sumitomo-chem.co.jp/ir/stocks/information/,discovered,10,JP MORGAN CHASE BANK 385781,21893.0,1.32,1000.0,21893000.0,2026-03-31,as_reported
+4023,https://www.kureha.co.jp/ir/stocks/outline.html,discovered,-52,発行済み株式の総数,38218898.0,100.0,1.0,38218898.0,2026-03-31,as_reported
 4023,https://www.kureha.co.jp/ir/stocks/outline.html,discovered,1,明治安田生命保険相互会社,3636.0,9.5,1000.0,3636000.0,2026-03-31,as_reported
 4023,https://www.kureha.co.jp/ir/stocks/outline.html,discovered,2,日本マスタートラスト信託銀行株式会社(信託口),3542.0,9.3,1000.0,3542000.0,2026-03-31,as_reported
 4023,https://www.kureha.co.jp/ir/stocks/outline.html,discovered,3,東京海上日動火災保険株式会社,1650.0,4.3,1000.0,1650000.0,2026-03-31,as_reported
@@ -163,6 +188,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 4023,https://www.kureha.co.jp/ir/stocks/outline.html,discovered,8,クレハグループ従業員持株会,766.0,2.0,1000.0,766000.0,2026-03-31,as_reported
 4023,https://www.kureha.co.jp/ir/stocks/outline.html,discovered,9,株式会社東邦銀行,638.0,1.7,1000.0,638000.0,2026-03-31,as_reported
 4023,https://www.kureha.co.jp/ir/stocks/outline.html,discovered,10,株式会社常陽銀行,614.0,1.6,1000.0,614000.0,2026-03-31,as_reported
+4023,https://www.kureha.co.jp/ir/stocks/outline.html,discovered,61,"発行済み株式の総数 38,218,898株(自己株式 11,723,323株を | 除く)",11723323.0,30.67415235258746,1.0,11723323.0,2026-03-31,vs_issued
+4027,https://www.tayca.co.jp/ir/stock_info/,discovered,-52,発行済株式の総数,23914414.0,100.0,1.0,23914414.0,2026-03-31,as_reported
 4027,https://www.tayca.co.jp/ir/stock_info/,discovered,1,三井物産株式会社,1784.0,7.81,1000.0,1784000.0,2026-03-31,as_reported
 4027,https://www.tayca.co.jp/ir/stock_info/,discovered,2,日本マスタートラスト信託銀行株式会社(信託口),1661.0,7.28,1000.0,1661000.0,2026-03-31,as_reported
 4027,https://www.tayca.co.jp/ir/stock_info/,discovered,3,三菱商事株式会社,1630.0,7.14,1000.0,1630000.0,2026-03-31,as_reported
@@ -173,6 +200,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 4027,https://www.tayca.co.jp/ir/stock_info/,discovered,8,関西ペイント株式会社,612.0,2.68,1000.0,612000.0,2026-03-31,as_reported
 4027,https://www.tayca.co.jp/ir/stock_info/,discovered,9,住友商事株式会社,500.0,2.19,1000.0,500000.0,2026-03-31,as_reported
 4027,https://www.tayca.co.jp/ir/stock_info/,discovered,10,株式会社日本カストディ銀行(信託口),419.0,1.84,1000.0,419000.0,2026-03-31,as_reported
+4027,https://www.tayca.co.jp/ir/stock_info/,discovered,61,"(注)1. 当社は自己株式1,083千株を保有しておりますが、上記には含めておりません。",1083.0,4.528649541652997,1000.0,1083000.0,2026-03-31,vs_issued
+4028,https://www.iskweb.co.jp/ir/stock.html,discovered,-52,発行済株式の総数,40383943.0,100.0,1.0,40383943.0,2026-03-31,as_reported
 4028,https://www.iskweb.co.jp/ir/stock.html,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),4911.0,12.69,1000.0,4911000.0,2026-03-31,as_reported
 4028,https://www.iskweb.co.jp/ir/stock.html,discovered,2,三井物産株式会社,2019.0,5.22,1000.0,2019000.0,2026-03-31,as_reported
 4028,https://www.iskweb.co.jp/ir/stock.html,discovered,3,株式会社日本カストディ銀行(信託口),1800.0,4.65,1000.0,1800000.0,2026-03-31,as_reported
@@ -183,6 +212,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 4028,https://www.iskweb.co.jp/ir/stock.html,discovered,8,石原産業従業員持株会,810.0,2.09,1000.0,810000.0,2026-03-31,as_reported
 4028,https://www.iskweb.co.jp/ir/stock.html,discovered,9,DFA INTL SMALL CAP VALUE PORTFOLIO,760.0,1.96,1000.0,760000.0,2026-03-31,as_reported
 4028,https://www.iskweb.co.jp/ir/stock.html,discovered,10,JPモルガン証券株式会社,612.0,1.58,1000.0,612000.0,2026-03-31,as_reported
+4028,https://www.iskweb.co.jp/ir/stock.html,discovered,61,"2.上記のほか当社所有の自己株式1,673千株があります。",1673.0,4.142735641242362,1000.0,1673000.0,2026-03-31,vs_issued
+4189,https://www.khneochem.co.jp/ir/stock-information/stock/,discovered,-52,発行済株式総数 (tanshin),37149400.0,100.0,1.0,37149400.0,2026-03-31,from_tanshin
 4189,https://www.khneochem.co.jp/ir/stock-information/stock/,discovered,1,INTERTRUST TRUSTEES(CAYMAN)LIMITED SOLEL Y IN ITS CAPACITY AS TRUSTEE OF JAPAN-UP,4798.0,13.65,1000.0,4798000.0,2026-03-31,as_reported
 4189,https://www.khneochem.co.jp/ir/stock-information/stock/,discovered,2,日本マスタートラスト信託銀行株式会社(信託口),4787.0,13.62,1000.0,4787000.0,2026-03-31,as_reported
 4189,https://www.khneochem.co.jp/ir/stock-information/stock/,discovered,3,株式会社日本カストディ銀行(信託口),2172.0,6.18,1000.0,2172000.0,2026-03-31,as_reported
@@ -194,6 +225,7 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 4189,https://www.khneochem.co.jp/ir/stock-information/stock/,discovered,9,INTERTRUST TRUSTEES CAYMAN LIMITED AS TRUSTEE OF JAPAN-UP UNIT TRUST,500.0,1.42,1000.0,500000.0,2026-03-31,as_reported
 4189,https://www.khneochem.co.jp/ir/stock-information/stock/,discovered,10,"THE CHASE MANHATTAN BANK,N.A. LONDONSECS LENDING OMNIBUS ACCOUNT",480.0,1.37,1000.0,480000.0,2026-03-31,as_reported
 4189,https://www.khneochem.co.jp/ir/stock-information/stock/,discovered,61,"※上記のほか、自己株式を1,993千株保有しておりますが、上記大株主からは除いております。",1993.0,5.669956231763235,1000.0,1993000.0,2026-03-31,proxy_via_top_holder
+4324,https://www.group.dentsu.com/jp/ir/stockandratings/shareinformation.html,discovered,-52,発行済株式総数,265800000.0,100.0,1.0,265800000.0,2026-03-31,as_reported
 4324,https://www.group.dentsu.com/jp/ir/stockandratings/shareinformation.html,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),30674200.0,11.78,1.0,30674200.0,2026-03-31,as_reported
 4324,https://www.group.dentsu.com/jp/ir/stockandratings/shareinformation.html,discovered,2,一般社団法人共同通信社,18988800.0,7.29,1.0,18988800.0,2026-03-31,as_reported
 4324,https://www.group.dentsu.com/jp/ir/stockandratings/shareinformation.html,discovered,3,株式会社日本カストディ銀行(信託口),11091440.0,4.26,1.0,11091440.0,2026-03-31,as_reported
@@ -204,6 +236,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 4324,https://www.group.dentsu.com/jp/ir/stockandratings/shareinformation.html,discovered,8,電通グループ従業員持株会,5104004.0,1.96,1.0,5104004.0,2026-03-31,as_reported
 4324,https://www.group.dentsu.com/jp/ir/stockandratings/shareinformation.html,discovered,9,公益財団法人吉田秀雄記念事業財団,4984808.0,1.91,1.0,4984808.0,2026-03-31,as_reported
 4324,https://www.group.dentsu.com/jp/ir/stockandratings/shareinformation.html,discovered,10,株式会社C&I Holdings,4748400.0,1.82,1.0,4748400.0,2026-03-31,as_reported
+4324,https://www.group.dentsu.com/jp/ir/stockandratings/shareinformation.html,discovered,61,"当社は自己株式を5,313,045株保有していますが、上記大株主から除外しております。",5313045.0,1.998888261851016,1.0,5313045.0,2026-03-31,vs_issued
+4507,https://www.shionogi.com/jp/ja/investors/shareholder-information/information-on-shares.html,discovered,-52,発行済株式総数,889632195.0,100.0,1.0,889632195.0,2026-03-31,as_reported
 4507,https://www.shionogi.com/jp/ja/investors/shareholder-information/information-on-shares.html,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),157523.0,18.31,1000.0,157523000.0,2026-03-31,as_reported
 4507,https://www.shionogi.com/jp/ja/investors/shareholder-information/information-on-shares.html,discovered,2,株式会社日本カストディ銀行(信託口),67193.0,7.81,1000.0,67193000.0,2026-03-31,as_reported
 4507,https://www.shionogi.com/jp/ja/investors/shareholder-information/information-on-shares.html,discovered,3,住友生命保険相互会社,55812.0,6.48,1000.0,55812000.0,2026-03-31,as_reported
@@ -214,6 +248,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 4507,https://www.shionogi.com/jp/ja/investors/shareholder-information/information-on-shares.html,discovered,8,STATE STREET BANK AND TRUST COMPANY 505103,9733.0,1.13,1000.0,9733000.0,2026-03-31,as_reported
 4507,https://www.shionogi.com/jp/ja/investors/shareholder-information/information-on-shares.html,discovered,9,株式会社三井住友銀行,9651.0,1.12,1000.0,9651000.0,2026-03-31,as_reported
 4507,https://www.shionogi.com/jp/ja/investors/shareholder-information/information-on-shares.html,discovered,10,HSBC HONG KONG-TREASURY SERVICES A/C ASIAN EQUITIES DERIVATIVES,8774.0,1.02,1000.0,8774000.0,2026-03-31,as_reported
+4507,https://www.shionogi.com/jp/ja/investors/shareholder-information/information-on-shares.html,discovered,61,"889,632,195株(自己株式29,656,758株を含む。)",29656758.0,3.3335976560515554,1.0,29656758.0,2026-03-31,vs_issued
+4662,https://www.focus-s.com/ir/information,discovered,-52,発行済株式総数,16292942.0,100.0,1.0,16292942.0,2026-03-31,as_reported
 4662,https://www.focus-s.com/ir/information,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),1469900.0,9.02,1.0,1469900.0,2026-03-31,as_reported
 4662,https://www.focus-s.com/ir/information,discovered,2,株式会社FRONTEO,900000.0,5.52,1.0,900000.0,2026-03-31,as_reported
 4662,https://www.focus-s.com/ir/information,discovered,3,フォーカスシステムズ社員持株会,703200.0,4.31,1.0,703200.0,2026-03-31,as_reported
@@ -224,7 +260,7 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 4662,https://www.focus-s.com/ir/information,discovered,8,STATE STREET BANK AND TRUST CLIENT OMNIBUS ACCOUNT OM02 505002,319000.0,1.95,1.0,319000.0,2026-03-31,as_reported
 4662,https://www.focus-s.com/ir/information,discovered,9,森 啓一,272800.0,1.67,1.0,272800.0,2026-03-31,as_reported
 4662,https://www.focus-s.com/ir/information,discovered,10,岩崎 泰次,263000.0,1.61,1.0,263000.0,2026-03-31,as_reported
-4662,https://www.focus-s.com/ir/information,discovered,61,"(注)その他、自己株式として1,644,462株を所有しております。",1644462.0,10.091194802367507,1.0,1644462.0,2026-03-31,proxy_via_top_holder
+4662,https://www.focus-s.com/ir/information,discovered,61,"(注)その他、自己株式として1,644,462株を所有しております。",1644462.0,10.093094298132284,1.0,1644462.0,2026-03-31,vs_issued
 4784,https://internet.gmo/ir/stock/info/,discovered,-52,発行済株式総数,274698528.0,100.0,1.0,274698528.0,2026-03-31,as_reported
 4784,https://internet.gmo/ir/stock/info/,discovered,1,GMOインターネットグループ株式会社,248434528.0,90.58,1.0,248434528.0,2026-03-31,as_reported
 4784,https://internet.gmo/ir/stock/info/,discovered,2,GMOネットアイアールディー株式会社,2316000.0,0.84,1.0,2316000.0,2026-03-31,as_reported
@@ -237,6 +273,7 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 4784,https://internet.gmo/ir/stock/info/,discovered,9,藤島 満,237900.0,0.08,1.0,237900.0,2026-03-31,as_reported
 4784,https://internet.gmo/ir/stock/info/,discovered,10,SMBC日興証券株式会社,226800.0,0.08,1.0,226800.0,2026-03-31,as_reported
 4784,https://internet.gmo/ir/stock/info/,discovered,61,"※持株比率は、自己株式(451,504株)を控除して計算しております。",451504.0,0.16436345811070383,1.0,451504.0,2026-03-31,vs_issued
+5020,https://www.hd.eneos.co.jp/ir/stock/ratio.html,discovered,-52,発行済株式総数 (tanshin),2706766549.0,100.0,1.0,2706766549.0,2026-03-31,from_tanshin
 5020,https://www.hd.eneos.co.jp/ir/stock/ratio.html,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),,15.37,,,2026-03-31,as_reported
 5020,https://www.hd.eneos.co.jp/ir/stock/ratio.html,discovered,2,株式会社日本カストディ銀行(信託口),,5.25,,,2026-03-31,as_reported
 5020,https://www.hd.eneos.co.jp/ir/stock/ratio.html,discovered,3,STATE STREET BANK AND TRUST COMPANY 505001,,2.69,,,2026-03-31,as_reported
@@ -247,6 +284,7 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 5020,https://www.hd.eneos.co.jp/ir/stock/ratio.html,discovered,8,JP MORGAN CHASE BANK 385771,,1.04,,,2026-03-31,as_reported
 5020,https://www.hd.eneos.co.jp/ir/stock/ratio.html,discovered,9,BNYM AS AGT/CLTS NON TREATY JASDEC,,1.01,,,2026-03-31,as_reported
 5020,https://www.hd.eneos.co.jp/ir/stock/ratio.html,discovered,10,SMBC日興証券株式会社,,0.9,,,2026-03-31,as_reported
+5020,https://www.hd.eneos.co.jp/ir/stock/ratio.html,discovered,61,"持株比率は、自己株式(7,364,065株)を控除して計算しています。",7364065.0,,1.0,7364065.0,2026-03-31,missing
 5703,https://www.nikkeikinholdings.co.jp/ir/stock/p1.html,discovered,-52,発行済株式総数,61993750.0,100.0,1.0,61993750.0,2026-03-31,as_reported
 5703,https://www.nikkeikinholdings.co.jp/ir/stock/p1.html,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),9155.0,14.8,1000.0,9155000.0,2026-03-31,as_reported
 5703,https://www.nikkeikinholdings.co.jp/ir/stock/p1.html,discovered,2,株式会社日本カストディ銀行(信託口),5028.0,8.1,1000.0,5028000.0,2026-03-31,as_reported
@@ -270,7 +308,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 5992,https://www.chkk.co.jp/ir/stocks/info/index.html,discovered,8,株式会社三菱UFJ銀行,617.0,,1000.0,617000.0,2026-03-31,missing
 5992,https://www.chkk.co.jp/ir/stocks/info/index.html,discovered,9,株式会社三井住友銀行,609.0,,1000.0,609000.0,2026-03-31,missing
 5992,https://www.chkk.co.jp/ir/stocks/info/index.html,discovered,10,東京海上日動火災保険株式会社,454.0,,1000.0,454000.0,2026-03-31,missing
-5992,https://www.chkk.co.jp/ir/stocks/info/index.html,discovered,61,"発行済株式総数  25,542,396株(自己株式318,355株を含む)",318355.0,1.2463787657195513,1.0,318355.0,2026-03-31,vs_issued
+5992,https://www.chkk.co.jp/ir/stocks/info/index.html,discovered,61,"※自己株式(318,355株)は個人・その他に含みます",318355.0,1.2463787657195513,1.0,318355.0,2026-03-31,vs_issued
+6141,https://www.dmgmori.co.jp/corporate/ir/stock/info.html,discovered,-52,発行済株式数,139444178.0,100.0,1.0,139444178.0,2026-03-31,as_reported
 6141,https://www.dmgmori.co.jp/corporate/ir/stock/info.html,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),17270.0,12.39,1000.0,17270000.0,2026-03-31,as_reported
 6141,https://www.dmgmori.co.jp/corporate/ir/stock/info.html,discovered,2,株式会社日本カストディ銀行(信託口),17020.0,12.21,1000.0,17020000.0,2026-03-31,as_reported
 6141,https://www.dmgmori.co.jp/corporate/ir/stock/info.html,discovered,3,DMG森精機従業員持株会,5276.0,3.78,1000.0,5276000.0,2026-03-31,as_reported
@@ -281,6 +320,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 6141,https://www.dmgmori.co.jp/corporate/ir/stock/info.html,discovered,8,STATE STREET BANK AND TRUST COMPANY 505103,2088.0,1.5,1000.0,2088000.0,2026-03-31,as_reported
 6141,https://www.dmgmori.co.jp/corporate/ir/stock/info.html,discovered,9,STATE STREET BANK AND TRUST COMPANY 505001,2076.0,1.49,1000.0,2076000.0,2026-03-31,as_reported
 6141,https://www.dmgmori.co.jp/corporate/ir/stock/info.html,discovered,10,HSBC HONG KONG -TREASURY SERVICES A/C ASIAN EQUITIES DERIVATIVES,2066.0,1.48,1000.0,2066000.0,2026-03-31,as_reported
+6141,https://www.dmgmori.co.jp/corporate/ir/stock/info.html,discovered,61,"発行済株式数 | 139,444,178株 (自己株式2,881,756株除く)",2881756.0,2.0666018770607977,1.0,2881756.0,2026-03-31,vs_issued
+6305,https://www.hitachicm.com/global/ja/ir/stock-and-bond/information/,discovered,-52,発行済株式数,215115038.0,100.0,1.0,215115038.0,2026-03-31,as_reported
 6305,https://www.hitachicm.com/global/ja/ir/stock-and-bond/information/,discovered,1,HCJIホールディングス株式会社,55290.0,25.99,1000.0,55290000.0,2026-03-31,as_reported
 6305,https://www.hitachicm.com/global/ja/ir/stock-and-bond/information/,discovered,2,株式会社日立製作所,39062.0,18.36,1000.0,39062000.0,2026-03-31,as_reported
 6305,https://www.hitachicm.com/global/ja/ir/stock-and-bond/information/,discovered,3,日本マスタートラスト信託銀行株式会社(信託口),29314.0,13.78,1000.0,29314000.0,2026-03-31,as_reported
@@ -291,6 +332,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 6305,https://www.hitachicm.com/global/ja/ir/stock-and-bond/information/,discovered,8,BNYM AS AGT/CLTS 10 PERCENT,1899.0,0.89,1000.0,1899000.0,2026-03-31,as_reported
 6305,https://www.hitachicm.com/global/ja/ir/stock-and-bond/information/,discovered,9,野村信託銀行株式会社(投信口),1845.0,0.87,1000.0,1845000.0,2026-03-31,as_reported
 6305,https://www.hitachicm.com/global/ja/ir/stock-and-bond/information/,discovered,10,HSBC HONG KONG -TREASURY SERVICES A/C AISAN EQUITIES DERIVATIVES,1673.0,0.79,1000.0,1673000.0,2026-03-31,as_reported
+6305,https://www.hitachicm.com/global/ja/ir/stock-and-bond/information/,discovered,61,"※ 当社は、自己株式2,379千株を保有していますが、上表には含めていません。",2379.0,1.1059198938941683,1000.0,2379000.0,2026-03-31,vs_issued
+6418,https://www.jcm-hq.co.jp/ja/ir/stock/status.html,discovered,-52,発行済株式総数,29672651.0,100.0,1.0,29672651.0,2026-03-31,as_reported
 6418,https://www.jcm-hq.co.jp/ja/ir/stock/status.html,discovered,1,上東興産株式会社,4661.0,17.19,1000.0,4661000.0,2026-03-31,as_reported
 6418,https://www.jcm-hq.co.jp/ja/ir/stock/status.html,discovered,2,日本マスタートラスト信託銀行株式会社 (信託口),2836.0,10.46,1000.0,2836000.0,2026-03-31,as_reported
 6418,https://www.jcm-hq.co.jp/ja/ir/stock/status.html,discovered,3,上東 洋次郎,1466.0,5.41,1000.0,1466000.0,2026-03-31,as_reported
@@ -301,6 +344,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 6418,https://www.jcm-hq.co.jp/ja/ir/stock/status.html,discovered,8,株式会社日本カストディ銀行(信託口),465.0,1.72,1000.0,465000.0,2026-03-31,as_reported
 6418,https://www.jcm-hq.co.jp/ja/ir/stock/status.html,discovered,9,トーターエンジニアリング株式会社,432.0,1.59,1000.0,432000.0,2026-03-31,as_reported
 6418,https://www.jcm-hq.co.jp/ja/ir/stock/status.html,discovered,10,日本生命保険相互会社,403.0,1.49,1000.0,403000.0,2026-03-31,as_reported
+6418,https://www.jcm-hq.co.jp/ja/ir/stock/status.html,discovered,61,"(注) 1. 当社は自己株式を2,547,614株保有しておりますが、上記大株主からは除外しております。",2547614.0,8.585731015405399,1.0,2547614.0,2026-03-31,vs_issued
+6632,https://www.jvckenwood.com/jp/ir/stock/price_information/,discovered,-52,発行済株式総数,161564801.0,100.0,1.0,161564801.0,2026-03-31,as_reported
 6632,https://www.jvckenwood.com/jp/ir/stock/price_information/,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),23178000.0,16.31,1.0,23178000.0,2026-03-31,as_reported
 6632,https://www.jvckenwood.com/jp/ir/stock/price_information/,discovered,2,株式会社日本カストディ銀行(信託口),10498032.0,7.39,1.0,10498032.0,2026-03-31,as_reported
 6632,https://www.jvckenwood.com/jp/ir/stock/price_information/,discovered,3,STATE STREET BANK AND TRUST COMPANY 505001,9046618.0,6.37,1.0,9046618.0,2026-03-31,as_reported
@@ -311,7 +356,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 6632,https://www.jvckenwood.com/jp/ir/stock/price_information/,discovered,8,MLI FOR CLIENT GENERAL OMNI NON COLLATERAL NON TREATY-PB,3317836.0,2.34,1.0,3317836.0,2026-03-31,as_reported
 6632,https://www.jvckenwood.com/jp/ir/stock/price_information/,discovered,9,THE BANK OF NEW YORK MELLON 140044,2326763.0,1.64,1.0,2326763.0,2026-03-31,as_reported
 6632,https://www.jvckenwood.com/jp/ir/stock/price_information/,discovered,10,JP MORGAN CHASE BANK 385781,2130956.0,1.5,1.0,2130956.0,2026-03-31,as_reported
-6723,https://www.renesas.com/ja/about/investor-relations/stock/distribution?srsltid=AfmBOoq61ispGt8C2rJ_3BKRXPX729T-Fn-51VHDGhnHyINGkOInOqsg,discovered,-52,発行済株式総数,777312669.0,100.0,1.0,777312669.0,2026-03-31,as_reported
+6632,https://www.jvckenwood.com/jp/ir/stock/price_information/,discovered,61,"161,564,801株(うち自己株式※ 20,232,589株) | ※自己名義株式数 19,488,757株 | 役員向け株式報酬制度に係る信託が保有する株式数 545,832株 | 従業員向け株式給付信託制度に係る信託が保有する株式数 198,000株 | 株主数",20232589.0,12.522894142022928,1.0,20232589.0,2026-03-31,vs_issued
+6723,https://www.renesas.com/ja/about/investor-relations/stock/distribution?srsltid=AfmBOoq61ispGt8C2rJ_3BKRXPX729T-Fn-51VHDGhnHyINGkOInOqsg,discovered,-52,発行済株式総数,1816000000.0,100.0,1.0,1816000000.0,2026-03-31,as_reported
 6723,https://www.renesas.com/ja/about/investor-relations/stock/distribution?srsltid=AfmBOoq61ispGt8C2rJ_3BKRXPX729T-Fn-51VHDGhnHyINGkOInOqsg,discovered,1,日本マスタートラスト信託銀行(株)(信託口),287161100.0,15.81,1.0,287161100.0,2026-03-31,as_reported
 6723,https://www.renesas.com/ja/about/investor-relations/stock/distribution?srsltid=AfmBOoq61ispGt8C2rJ_3BKRXPX729T-Fn-51VHDGhnHyINGkOInOqsg,discovered,2,(株)日本カストディ銀行(信託口),102929210.0,5.66,1.0,102929210.0,2026-03-31,as_reported
 6723,https://www.renesas.com/ja/about/investor-relations/stock/distribution?srsltid=AfmBOoq61ispGt8C2rJ_3BKRXPX729T-Fn-51VHDGhnHyINGkOInOqsg,discovered,3,トヨタ自動車(株),75015900.0,4.13,1.0,75015900.0,2026-03-31,as_reported
@@ -322,8 +368,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 6723,https://www.renesas.com/ja/about/investor-relations/stock/distribution?srsltid=AfmBOoq61ispGt8C2rJ_3BKRXPX729T-Fn-51VHDGhnHyINGkOInOqsg,discovered,8,STATE STREET BANK AND TRUST COMPANY 505103,30581567.0,1.68,1.0,30581567.0,2026-03-31,as_reported
 6723,https://www.renesas.com/ja/about/investor-relations/stock/distribution?srsltid=AfmBOoq61ispGt8C2rJ_3BKRXPX729T-Fn-51VHDGhnHyINGkOInOqsg,discovered,9,BNYM AS AGT/CLTS 10 PERCENT,26343473.0,1.45,1.0,26343473.0,2026-03-31,as_reported
 6723,https://www.renesas.com/ja/about/investor-relations/stock/distribution?srsltid=AfmBOoq61ispGt8C2rJ_3BKRXPX729T-Fn-51VHDGhnHyINGkOInOqsg,discovered,10,GOVERNMENT OF NORWAY,26284299.0,1.44,1.0,26284299.0,2026-03-31,as_reported
-6723,https://www.renesas.com/ja/about/investor-relations/stock/distribution?srsltid=AfmBOoq61ispGt8C2rJ_3BKRXPX729T-Fn-51VHDGhnHyINGkOInOqsg,discovered,61,"上記のほか、当社は、自己株式54,922,732株を保有しています。",54922732.0,7.065719393285741,1.0,54922732.0,2026-03-31,vs_issued
-6723,https://www.renesas.com/ja/about/investor-relations/stock/distribution?srsltid=AfmBOoq61ispGt8C2rJ_3BKRXPX729T-Fn-51VHDGhnHyINGkOInOqsg,discovered,61,"持株比率は、自己株式54,922,732株を除いて算出しています。",54922732.0,7.065719393285741,1.0,54922732.0,2026-03-31,vs_issued
+6723,https://www.renesas.com/ja/about/investor-relations/stock/distribution?srsltid=AfmBOoq61ispGt8C2rJ_3BKRXPX729T-Fn-51VHDGhnHyINGkOInOqsg,discovered,61,"上記のほか、当社は、自己株式54,922,732株を保有しています。",54922732.0,3.0243795154185023,1.0,54922732.0,2026-03-31,vs_issued
+6770,https://www.alpsalpine.com/j/ir/info/stock/,override,-52,発行済み株式総数,208103750.0,100.0,1.0,208103750.0,2026-03-31,as_reported
 6770,https://www.alpsalpine.com/j/ir/info/stock/,override,1,日本マスタートラスト信託銀行株式会社(信託口),40055300.0,20.52,1.0,40055300.0,2026-03-31,as_reported
 6770,https://www.alpsalpine.com/j/ir/info/stock/,override,2,株式会社エスグラントコーポレーション,17232900.0,8.83,1.0,17232900.0,2026-03-31,as_reported
 6770,https://www.alpsalpine.com/j/ir/info/stock/,override,3,株式会社日本カストディ銀行(信託口),16990300.0,8.7,1.0,16990300.0,2026-03-31,as_reported
@@ -334,6 +380,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 6770,https://www.alpsalpine.com/j/ir/info/stock/,override,8,野村信託銀行株式会社(投信口),3502800.0,1.79,1.0,3502800.0,2026-03-31,as_reported
 6770,https://www.alpsalpine.com/j/ir/info/stock/,override,9,JPモルガン証券株式会社,3094849.0,1.58,1.0,3094849.0,2026-03-31,as_reported
 6770,https://www.alpsalpine.com/j/ir/info/stock/,override,10,日本生命保険相互会社,2750208.0,1.4,1.0,2750208.0,2026-03-31,as_reported
+6770,https://www.alpsalpine.com/j/ir/info/stock/,override,61,"1. 当社は自己株式を12,989,139株保有していますが、上記大株主からは除外しています。",12989139.0,6.241665034868425,1.0,12989139.0,2026-03-31,vs_issued
+7011,https://www.mhi.com/jp/finance/stock/status,discovered,-52,発行済株式数,3373647810.0,100.0,1.0,3373647810.0,2026-03-31,as_reported
 7011,https://www.mhi.com/jp/finance/stock/status,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),528890400.0,15.6,1.0,528890400.0,2026-03-31,as_reported
 7011,https://www.mhi.com/jp/finance/stock/status,discovered,2,株式会社日本カストディ銀行(信託口),176303000.0,5.2,1.0,176303000.0,2026-03-31,as_reported
 7011,https://www.mhi.com/jp/finance/stock/status,discovered,3,THE BANK OF NEW YORK MELLON AS DEPOSITARY BANK FOR DEPOSITARY RECEIPT HOLDERS,114775714.0,3.4,1.0,114775714.0,2026-03-31,as_reported
@@ -344,6 +392,7 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 7011,https://www.mhi.com/jp/finance/stock/status,discovered,8,JP MORGAN CHASE BANK 385781,46825790.0,1.3,1.0,46825790.0,2026-03-31,as_reported
 7011,https://www.mhi.com/jp/finance/stock/status,discovered,9,BNYM AS AGT/CLTS 10 PERCENT,39710334.0,1.1,1.0,39710334.0,2026-03-31,as_reported
 7011,https://www.mhi.com/jp/finance/stock/status,discovered,10,三菱重工持株会,34462545.0,1.0,1.0,34462545.0,2026-03-31,as_reported
+7013,http://www.ihi.co.jp/ir/stock/information/,discovered,-52,発行済株式の総数,1082759678.0,100.0,1.0,1082759678.0,2026-03-31,as_reported
 7013,http://www.ihi.co.jp/ir/stock/information/,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),158637.0,14.91,1000.0,158637000.0,2026-03-31,as_reported
 7013,http://www.ihi.co.jp/ir/stock/information/,discovered,2,"THE CHASE MANHATTAN BANK, N.A. LONDONSECS LENDING OMNIBUS ACCOUNT (常任代理人 株式会社みずほ銀行決済営業部)",75857.0,7.12,1000.0,75857000.0,2026-03-31,as_reported
 7013,http://www.ihi.co.jp/ir/stock/information/,discovered,3,株式会社日本カストディ銀行(信託口),61042.0,5.73,1000.0,61042000.0,2026-03-31,as_reported
@@ -354,6 +403,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 7013,http://www.ihi.co.jp/ir/stock/information/,discovered,8,J.P. MORGAN BANK 385781 (常任代理人 株式会社みずほ銀行決済営業部),13253.0,1.24,1000.0,13253000.0,2026-03-31,as_reported
 7013,http://www.ihi.co.jp/ir/stock/information/,discovered,9,J.P. MORGAN BANK 385642 (常任代理人 株式会社みずほ銀行決済営業部),13232.0,1.24,1000.0,13232000.0,2026-03-31,as_reported
 7013,http://www.ihi.co.jp/ir/stock/information/,discovered,10,第一生命保険株式会社,12086.0,1.13,1000.0,12086000.0,2026-03-31,as_reported
+7013,http://www.ihi.co.jp/ir/stock/information/,discovered,61,"当社は自己株式(18,833,836株)を保有していますが、上記大株主からは除外しております。",18833836.0,1.7394290148289027,1.0,18833836.0,2026-03-31,vs_issued
+7186,https://www.yokohamafg.co.jp/shareholder/stock/fact/index.html,discovered,-52,発行済株式総数,1144616.0,100.0,1000.0,1144616000.0,2026-03-31,as_reported
 7186,https://www.yokohamafg.co.jp/shareholder/stock/fact/index.html,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),178123.0,15.56,1000.0,178123000.0,2026-03-31,as_reported
 7186,https://www.yokohamafg.co.jp/shareholder/stock/fact/index.html,discovered,2,株式会社日本カストディ銀行(信託口),71663.0,6.26,1000.0,71663000.0,2026-03-31,as_reported
 7186,https://www.yokohamafg.co.jp/shareholder/stock/fact/index.html,discovered,3,みずほ信託銀行株式会社 退職給付信託 明治安田生命保険口 再信託受託者 株式会社日本カストディ銀行,36494.0,3.18,1000.0,36494000.0,2026-03-31,as_reported
@@ -364,6 +415,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 7186,https://www.yokohamafg.co.jp/shareholder/stock/fact/index.html,discovered,8,住友生命保険相互会社,14770.0,1.29,1000.0,14770000.0,2026-03-31,as_reported
 7186,https://www.yokohamafg.co.jp/shareholder/stock/fact/index.html,discovered,9,BBH (LUX) FOR FIDELITY FUNDS - JAPAN ADVANTAGE POOL,14409.0,1.25,1000.0,14409000.0,2026-03-31,as_reported
 7186,https://www.yokohamafg.co.jp/shareholder/stock/fact/index.html,discovered,10,野村信託銀行株式会社(投信口),13453.0,1.17,1000.0,13453000.0,2026-03-31,as_reported
+7186,https://www.yokohamafg.co.jp/shareholder/stock/fact/index.html,discovered,61,"上記のほか、当社が保有している自己株式が 30,142千株あります。",30142.0,2.6333722401224517,1000.0,30142000.0,2026-03-31,vs_issued
+7537,https://www.marubun.co.jp/ir/stock/stockinfo/,discovered,-52,発行済株式の総数,28051.0,100.0,1000.0,28051000.0,2026-03-31,as_reported
 7537,https://www.marubun.co.jp/ir/stock/stockinfo/,discovered,1,アローエレクトロニクスインク,2350.0,8.38,1000.0,2350000.0,2026-03-31,as_reported
 7537,https://www.marubun.co.jp/ir/stock/stockinfo/,discovered,2,一般財団法人丸文財団,2304.0,8.21,1000.0,2304000.0,2026-03-31,as_reported
 7537,https://www.marubun.co.jp/ir/stock/stockinfo/,discovered,3,日本マスタートラスト信託銀行株式会社信託口,1998.0,7.12,1000.0,1998000.0,2026-03-31,as_reported
@@ -374,6 +427,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 7537,https://www.marubun.co.jp/ir/stock/stockinfo/,discovered,8,インタラクティブブローカーズエルエルシー,635.0,2.26,1000.0,635000.0,2026-03-31,as_reported
 7537,https://www.marubun.co.jp/ir/stock/stockinfo/,discovered,9,堀越百子,602.0,2.15,1000.0,602000.0,2026-03-31,as_reported
 7537,https://www.marubun.co.jp/ir/stock/stockinfo/,discovered,10,株式会社三菱UFJ銀行,479.0,1.71,1000.0,479000.0,2026-03-31,as_reported
+7537,https://www.marubun.co.jp/ir/stock/stockinfo/,discovered,61,"※「個人・その他」に自己株式1,808千株が含まれております。",1808.0,6.445403015935261,1000.0,1808000.0,2026-03-31,vs_issued
+7733,https://www.olympus.co.jp/ir/stock/information.html?page=ir,override,-52,発行済株式総数,1114485700.0,100.0,1.0,1114485700.0,2026-03-31,as_reported
 7733,https://www.olympus.co.jp/ir/stock/information.html?page=ir,override,1,日本マスタートラスト信託銀行株式会社(信託口),210749500.0,19.14,1.0,210749500.0,2026-03-31,as_reported
 7733,https://www.olympus.co.jp/ir/stock/information.html?page=ir,override,2,株式会社日本カストディ銀行(信託口),73848800.0,6.71,1.0,73848800.0,2026-03-31,as_reported
 7733,https://www.olympus.co.jp/ir/stock/information.html?page=ir,override,3,STATE STREET BANK AND TRUST COMPANY 505001,57412385.0,5.21,1.0,57412385.0,2026-03-31,as_reported
@@ -384,7 +439,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 7733,https://www.olympus.co.jp/ir/stock/information.html?page=ir,override,8,"THE CHASE MANHATTAN BANK, N.A. LONDONSECS LENDING OMNIBUS ACCOUNT",20359229.0,1.85,1.0,20359229.0,2026-03-31,as_reported
 7733,https://www.olympus.co.jp/ir/stock/information.html?page=ir,override,9,STATE STREET BANK AND TRUST COMPANY 505103,18456044.0,1.68,1.0,18456044.0,2026-03-31,as_reported
 7733,https://www.olympus.co.jp/ir/stock/information.html?page=ir,override,10,JP MORGAN CHASE BANK 385642,17084533.0,1.55,1.0,17084533.0,2026-03-31,as_reported
-7733,https://www.olympus.co.jp/ir/stock/information.html?page=ir,override,61,"持株比率は、自己株式(13,383,184株)を控除して算出しています。",13383184.0,1.2154436511593147,1.0,13383184.0,2026-03-31,proxy_via_top_holder
+7733,https://www.olympus.co.jp/ir/stock/information.html?page=ir,override,61,"持株比率は、自己株式(13,383,184株)を控除して算出しています。",13383184.0,1.2008394544676526,1.0,13383184.0,2026-03-31,vs_issued
+8020,https://www.kanematsu.co.jp/ir/shareholder_stock,discovered,-52,発行済株式総数,169000404.0,100.0,1.0,169000404.0,2026-03-31,as_reported
 8020,https://www.kanematsu.co.jp/ir/shareholder_stock,discovered,1,日本マスタートラスト信託銀行株式会社 (信託口),26222.0,15.56,1000.0,26222000.0,2026-03-31,as_reported
 8020,https://www.kanematsu.co.jp/ir/shareholder_stock,discovered,2,株式会社日本カストディ銀行 (信託口),12860.0,7.63,1000.0,12860000.0,2026-03-31,as_reported
 8020,https://www.kanematsu.co.jp/ir/shareholder_stock,discovered,3,ステート ストリート バンク アンド トラスト カンパニー 505001,7113.0,4.22,1000.0,7113000.0,2026-03-31,as_reported
@@ -395,6 +451,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 8020,https://www.kanematsu.co.jp/ir/shareholder_stock,discovered,8,ジェーピー モルガン チェース バンク 385781,2362.0,1.4,1000.0,2362000.0,2026-03-31,as_reported
 8020,https://www.kanematsu.co.jp/ir/shareholder_stock,discovered,9,ザ バンク オブ ニューヨーク メロン 140042,2155.0,1.27,1000.0,2155000.0,2026-03-31,as_reported
 8020,https://www.kanematsu.co.jp/ir/shareholder_stock,discovered,10,ステート ストリート バンク アンド トラスト カンパニー 505103,1843.0,1.09,1000.0,1843000.0,2026-03-31,as_reported
+8020,https://www.kanematsu.co.jp/ir/shareholder_stock,discovered,61,"持株比率は自己株式(534,348株)を控除して計算しております。",534348.0,0.3161814926785619,1.0,534348.0,2026-03-31,vs_issued
+8031,https://www.mitsui.com/jp/ja/ir/information/basic/index.html,discovered,-52,発行済株式総数,2864666576.0,100.0,1.0,2864666576.0,2026-03-31,as_reported
 8031,https://www.mitsui.com/jp/ja/ir/information/basic/index.html,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),459252.0,16.12,1000.0,459252000.0,2026-03-31,as_reported
 8031,https://www.mitsui.com/jp/ja/ir/information/basic/index.html,discovered,2,ステート ストリート バンク アンド トラスト カンパニー 505104,296732.0,10.42,1000.0,296732000.0,2026-03-31,as_reported
 8031,https://www.mitsui.com/jp/ja/ir/information/basic/index.html,discovered,3,株式会社日本カストディ銀行(信託口),178755.0,6.27,1000.0,178755000.0,2026-03-31,as_reported
@@ -402,7 +460,7 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 8031,https://www.mitsui.com/jp/ja/ir/information/basic/index.html,discovered,5,ステート  ストリート バンク アンド トラスト カンパニー 505001,55563.0,1.95,1000.0,55563000.0,2026-03-31,as_reported
 8031,https://www.mitsui.com/jp/ja/ir/information/basic/index.html,discovered,6,ナッツ・クムコ,43876.0,1.54,1000.0,43876000.0,2026-03-31,as_reported
 8031,https://www.mitsui.com/jp/ja/ir/information/basic/index.html,discovered,7,ザ チェース マンハッタン バンク エヌエイ ロンドン エス エル オムニバス アカウント,37635.0,1.32,1000.0,37635000.0,2026-03-31,as_reported
-8031,https://www.mitsui.com/jp/ja/ir/information/basic/index.html,discovered,61,"1. 上記のほか、当社保有の自己株式が17,038千株あります。",17038.0,0.5980432529417401,1000.0,17038000.0,2026-03-31,proxy_via_top_holder
+8031,https://www.mitsui.com/jp/ja/ir/information/basic/index.html,discovered,61,"1. 上記のほか、当社保有の自己株式が17,038千株あります。",17038.0,0.5947638075140512,1000.0,17038000.0,2026-03-31,vs_issued
 8086,https://www.nipro.co.jp/ir/stock/overview.html,discovered,-52,発行済株式総数,171459.0,100.0,1000.0,171459000.0,2026-03-31,as_reported
 8086,https://www.nipro.co.jp/ir/stock/overview.html,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),17508.0,10.7,1000.0,17508000.0,2026-03-31,as_reported
 8086,https://www.nipro.co.jp/ir/stock/overview.html,discovered,2,株式会社日本カストディ銀行(信託口),12334.0,7.53,1000.0,12334000.0,2026-03-31,as_reported
@@ -415,6 +473,7 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 8086,https://www.nipro.co.jp/ir/stock/overview.html,discovered,9,ニプロ従業員持株会,2631.0,1.61,1000.0,2631000.0,2026-03-31,as_reported
 8086,https://www.nipro.co.jp/ir/stock/overview.html,discovered,10,GOLDMAN SACHS INTERNATIONAL,2580.0,1.58,1000.0,2580000.0,2026-03-31,as_reported
 8086,https://www.nipro.co.jp/ir/stock/overview.html,discovered,61,"(注)持株比率は、自己株式(7,764千株)を控除して計算しております。",7764.0,4.528196245166483,1000.0,7764000.0,2026-03-31,vs_issued
+8098,https://www.inabata.co.jp/investor/stock/overview/,discovered,-52,発行済株式総数,53714127.0,100.0,1.0,53714127.0,2026-03-31,as_reported
 8098,https://www.inabata.co.jp/investor/stock/overview/,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),6992.0,13.0,1000.0,6992000.0,2026-03-31,as_reported
 8098,https://www.inabata.co.jp/investor/stock/overview/,discovered,2,住友化学株式会社,5591.0,10.4,1000.0,5591000.0,2026-03-31,as_reported
 8098,https://www.inabata.co.jp/investor/stock/overview/,discovered,3,株式会社日本カストディ銀行(信託口),3445.0,6.4,1000.0,3445000.0,2026-03-31,as_reported
@@ -425,7 +484,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 8098,https://www.inabata.co.jp/investor/stock/overview/,discovered,8,STATE STREET BANK AND TRUST COMPANY 505223,668.0,1.2,1000.0,668000.0,2026-03-31,as_reported
 8098,https://www.inabata.co.jp/investor/stock/overview/,discovered,9,JP MORGAN CHASE BANK 385781,641.0,1.2,1000.0,641000.0,2026-03-31,as_reported
 8098,https://www.inabata.co.jp/investor/stock/overview/,discovered,10,株式会社日本カストディ銀行(信託口4),636.0,1.2,1000.0,636000.0,2026-03-31,as_reported
-8098,https://www.inabata.co.jp/investor/stock/overview/,discovered,61,"当社が保有する自己株式数77,714株(ただし「株式給付信託(BBT)」制度の信託財産として、株式会社日本カストディ銀行(信託E口)が保有する当社株式254,500株を除く)につきましては、持株比率の計算より除いております。",77714.0,0.14449113272311212,1.0,77714.0,2026-03-31,proxy_via_top_holder
+8098,https://www.inabata.co.jp/investor/stock/overview/,discovered,61,"当社が保有する自己株式数77,714株(ただし「株式給付信託(BBT)」制度の信託財産として、株式会社日本カストディ銀行(信託E口)が保有する当社株式254,500株を除く)につきましては、持株比率の計算より除いております。",77714.0,0.14468074664975938,1.0,77714.0,2026-03-31,vs_issued
+8141,https://shinko-sj.co.jp/ir/stockinfo/,discovered,-52,発行済株式の総数,31010566.0,100.0,1.0,31010566.0,2026-03-31,as_reported
 8141,https://shinko-sj.co.jp/ir/stockinfo/,discovered,1,日本マスタートラスト信託銀行(株)(信託口),3009500.0,10.16,1.0,3009500.0,2026-03-31,as_reported
 8141,https://shinko-sj.co.jp/ir/stockinfo/,discovered,2,野村 絢,2868900.0,9.69,1.0,2868900.0,2026-03-31,as_reported
 8141,https://shinko-sj.co.jp/ir/stockinfo/,discovered,3,(株)シティインデックスファースト,2044700.0,6.9,1.0,2044700.0,2026-03-31,as_reported
@@ -436,7 +496,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 8141,https://shinko-sj.co.jp/ir/stockinfo/,discovered,8,EUROPEAN DEPOSITARY BANK SA-DUBLIN-BUTTERMERE DEEP VALUE FUND LIMITED,676314.0,2.28,1.0,676314.0,2026-03-31,as_reported
 8141,https://shinko-sj.co.jp/ir/stockinfo/,discovered,9,(株)日本カストディ銀行(信託口),559200.0,1.88,1.0,559200.0,2026-03-31,as_reported
 8141,https://shinko-sj.co.jp/ir/stockinfo/,discovered,10,加賀電子(株),515000.0,1.74,1.0,515000.0,2026-03-31,as_reported
-8141,https://shinko-sj.co.jp/ir/stockinfo/,discovered,61,"当社は、2026年3月31日現在、自己株式を1,397,967株保有していますが、上記大株主からは除外しております。なお、自己株式には「役員株式給付信託(BBT)」ならびに「従業員株式給付信託(J-ESOP)」制度の導入に伴う 株式会社日本カストディ銀行(信託E口)が保有する1,062,700株は含めておりません。",1397967.0,4.71950314670211,1.0,1397967.0,2026-03-31,proxy_via_top_holder
+8141,https://shinko-sj.co.jp/ir/stockinfo/,discovered,61,"当社は、2026年3月31日現在、自己株式を1,397,967株保有していますが、上記大株主からは除外しております。なお、自己株式には「役員株式給付信託(BBT)」ならびに「従業員株式給付信託(J-ESOP)」制度の導入に伴う 株式会社日本カストディ銀行(信託E口)が保有する1,062,700株は含めておりません。",1397967.0,4.508034455095079,1.0,1397967.0,2026-03-31,vs_issued
+8381,https://www.gogin.co.jp/ir/stocks/information/,discovered,-52,発行済株式総数 (tanshin),156977472.0,100.0,1.0,156977472.0,2026-03-31,from_tanshin
 8381,https://www.gogin.co.jp/ir/stocks/information/,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),18443700.0,12.14,1.0,18443700.0,2026-03-31,as_reported
 8381,https://www.gogin.co.jp/ir/stocks/information/,discovered,2,株式会社日本カストディ銀行(信託口),9107400.0,5.99,1.0,9107400.0,2026-03-31,as_reported
 8381,https://www.gogin.co.jp/ir/stocks/information/,discovered,3,日本生命保険相互会社,4076783.0,2.68,1.0,4076783.0,2026-03-31,as_reported
@@ -447,16 +508,7 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 8381,https://www.gogin.co.jp/ir/stocks/information/,discovered,8,STATE STREET BANK AND TRUST COMPANY 505001,1966947.0,1.29,1.0,1966947.0,2026-03-31,as_reported
 8381,https://www.gogin.co.jp/ir/stocks/information/,discovered,9,DFA INTL SMALL CAP VALUE PORTFOLIO,1786253.0,1.17,1.0,1786253.0,2026-03-31,as_reported
 8381,https://www.gogin.co.jp/ir/stocks/information/,discovered,10,グッドヒル株式会社,1568612.0,1.03,1.0,1568612.0,2026-03-31,as_reported
-8698,https://www.monexgroup.jp/jp/investor/stock/basic.html,discovered,1,株式会社しずおかフィナンシャルグループ,51091.0,20.32,1000.0,51091000.0,2026-03-31,as_reported
-8698,https://www.monexgroup.jp/jp/investor/stock/basic.html,discovered,2,日本マスタートラスト信託銀行株式会社(信託口),28766.0,11.44,1000.0,28766000.0,2026-03-31,as_reported
-8698,https://www.monexgroup.jp/jp/investor/stock/basic.html,discovered,3,株式会社松本,22080.0,8.78,1000.0,22080000.0,2026-03-31,as_reported
-8698,https://www.monexgroup.jp/jp/investor/stock/basic.html,discovered,4,株式会社日本カストディ銀行(信託口),9327.0,3.71,1000.0,9327000.0,2026-03-31,as_reported
-8698,https://www.monexgroup.jp/jp/investor/stock/basic.html,discovered,5,JPモルガン証券株式会社,6248.0,2.48,1000.0,6248000.0,2026-03-31,as_reported
-8698,https://www.monexgroup.jp/jp/investor/stock/basic.html,discovered,6,UBS AG LONDON A/C IPB SEGREGATED CLIENT ACCOUNT,3798.0,1.51,1000.0,3798000.0,2026-03-31,as_reported
-8698,https://www.monexgroup.jp/jp/investor/stock/basic.html,discovered,7,工藤 恭子,3455.0,1.37,1000.0,3455000.0,2026-03-31,as_reported
-8698,https://www.monexgroup.jp/jp/investor/stock/basic.html,discovered,8,STATE STREET BANK AND TRUST COMPANY 505001,2618.0,1.04,1000.0,2618000.0,2026-03-31,as_reported
-8698,https://www.monexgroup.jp/jp/investor/stock/basic.html,discovered,9,JP MORGAN CHASE BANK 385781,2526.0,1.0,1000.0,2526000.0,2026-03-31,as_reported
-8698,https://www.monexgroup.jp/jp/investor/stock/basic.html,discovered,10,BNY GCM CLIENT ACCOUNT JPRD AC ISG(FE-AC),2484.0,0.98,1000.0,2484000.0,2026-03-31,as_reported
+8729,https://www.sonyfg.co.jp/ja/ir/shareholder/shareholder.html,override,-52,発行済株式総数,6770358214.0,100.0,1.0,6770358214.0,2026-03-31,as_reported
 8729,https://www.sonyfg.co.jp/ja/ir/shareholder/shareholder.html,override,1,ソニーグループ株式会社,1172219784.0,17.39,1.0,1172219784.0,2026-03-31,as_reported
 8729,https://www.sonyfg.co.jp/ja/ir/shareholder/shareholder.html,override,2,日本マスタートラスト信託銀行株式会社(信託口),871705500.0,12.93,1.0,871705500.0,2026-03-31,as_reported
 8729,https://www.sonyfg.co.jp/ja/ir/shareholder/shareholder.html,override,3,株式会社日本カストディ銀行(信託口),232667210.0,3.45,1.0,232667210.0,2026-03-31,as_reported
@@ -467,7 +519,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 8729,https://www.sonyfg.co.jp/ja/ir/shareholder/shareholder.html,override,8,STATE STREET BANK AND TRUST COMPANY 505001,70553767.0,1.05,1.0,70553767.0,2026-03-31,as_reported
 8729,https://www.sonyfg.co.jp/ja/ir/shareholder/shareholder.html,override,9,BANK JULIUS BAER AND CO. LTD. SINGAPORE CLIENTS,61527601.0,0.91,1.0,61527601.0,2026-03-31,as_reported
 8729,https://www.sonyfg.co.jp/ja/ir/shareholder/shareholder.html,override,10,THE BANK OF NEW YORK MELLON 140044,57494120.0,0.85,1.0,57494120.0,2026-03-31,as_reported
-8729,https://www.sonyfg.co.jp/ja/ir/shareholder/shareholder.html,override,61,"※持株比率は、発行済株式の総数から当社の自己株式(30,932,126株)を除外して算出しております。",30932126.0,0.45888124264928803,1.0,30932126.0,2026-03-31,proxy_via_top_holder
+8729,https://www.sonyfg.co.jp/ja/ir/shareholder/shareholder.html,override,61,"※持株比率は、発行済株式の総数から当社の自己株式(30,932,126株)を除外して算出しております。",30932126.0,0.45687576672143276,1.0,30932126.0,2026-03-31,vs_issued
+8892,https://www.es-conjapan.co.jp/investor/stock/,discovered,-52,発行済株式総数,98580887.0,100.0,1.0,98580887.0,2026-03-31,as_reported
 8892,https://www.es-conjapan.co.jp/investor/stock/,discovered,1,中部電力株式会社,49599000.0,50.3,1.0,49599000.0,2026-03-31,as_reported
 8892,https://www.es-conjapan.co.jp/investor/stock/,discovered,2,日本マスタートラスト信託銀行株式会社(信託口),4896000.0,5.0,1.0,4896000.0,2026-03-31,as_reported
 8892,https://www.es-conjapan.co.jp/investor/stock/,discovered,3,株式会社天満正龍,3610000.0,3.7,1.0,3610000.0,2026-03-31,as_reported
@@ -478,6 +531,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 8892,https://www.es-conjapan.co.jp/investor/stock/,discovered,8,MSIP CLIENT SECURITIES,718500.0,0.7,1.0,718500.0,2026-03-31,as_reported
 8892,https://www.es-conjapan.co.jp/investor/stock/,discovered,9,野村證券株式会社,621900.0,0.6,1.0,621900.0,2026-03-31,as_reported
 8892,https://www.es-conjapan.co.jp/investor/stock/,discovered,10,JP MORGAN CHASE BANK 385781,576865.0,0.6,1.0,576865.0,2026-03-31,as_reported
+8892,https://www.es-conjapan.co.jp/investor/stock/,discovered,61,"自己株式には、役員向け株式給付信託および株式給付型ESOP信託による日本トラスティ・サービス信託銀行株式会社(信託口)所有の1,414,300株を含んでおりません。|1414300",,1.4346594385988838,1.0,1414300.0,2026-03-31,vs_issued
+8934,https://www.sunfrt.co.jp/ir/stock_information/principal_shareholders/,discovered,-52,発行済株式総数 (tanshin),48755500.0,100.0,1.0,48755500.0,2026-03-31,from_tanshin
 8934,https://www.sunfrt.co.jp/ir/stock_information/principal_shareholders/,discovered,1,株式会社報恩,20978600.0,40.49,1.0,20978600.0,2026-03-31,as_reported
 8934,https://www.sunfrt.co.jp/ir/stock_information/principal_shareholders/,discovered,2,"AAGS S5, L. P.",3151800.0,6.08,1.0,3151800.0,2026-03-31,as_reported
 8934,https://www.sunfrt.co.jp/ir/stock_information/principal_shareholders/,discovered,3,日本マスタートラスト信託銀行株式会社(信託口),2990300.0,5.77,1.0,2990300.0,2026-03-31,as_reported
@@ -488,6 +543,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 8934,https://www.sunfrt.co.jp/ir/stock_information/principal_shareholders/,discovered,8,STATE STREET BANK AND TRUST COMPANY 505001,494737.0,0.95,1.0,494737.0,2026-03-31,as_reported
 8934,https://www.sunfrt.co.jp/ir/stock_information/principal_shareholders/,discovered,9,THE BANK OF NEW YORK MELLON 140044,492300.0,0.95,1.0,492300.0,2026-03-31,as_reported
 8934,https://www.sunfrt.co.jp/ir/stock_information/principal_shareholders/,discovered,10,株式会社SBI証券,437570.0,0.84,1.0,437570.0,2026-03-31,as_reported
+8934,https://www.sunfrt.co.jp/ir/stock_information/principal_shareholders/,discovered,61,"注:1)持株比率は、自己株式(94,320株)を控除して計算しております。",94320.0,0.18204345380530637,1.0,94320.0,2026-03-31,proxy_via_top_holder
+9025,https://www.konoike.net/ir/stocks/stock/,discovered,-52,発行済株式の総数,56952442.0,100.0,1.0,56952442.0,2026-03-31,as_reported
 9025,https://www.konoike.net/ir/stocks/stock/,discovered,1,江之子島商事(株),5040888.0,9.49,1.0,5040888.0,2026-03-31,as_reported
 9025,https://www.konoike.net/ir/stocks/stock/,discovered,2,日本マスタートラスト信託銀行(株)(信託口),4426700.0,8.33,1.0,4426700.0,2026-03-31,as_reported
 9025,https://www.konoike.net/ir/stocks/stock/,discovered,3,鴻池運輸従業員持株会,3945592.0,7.43,1.0,3945592.0,2026-03-31,as_reported
@@ -498,7 +555,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 9025,https://www.konoike.net/ir/stocks/stock/,discovered,8,大阪瓦斯(株),2248912.0,4.23,1.0,2248912.0,2026-03-31,as_reported
 9025,https://www.konoike.net/ir/stocks/stock/,discovered,9,鴻池 忠嗣,1623444.0,3.05,1.0,1623444.0,2026-03-31,as_reported
 9025,https://www.konoike.net/ir/stocks/stock/,discovered,10,日本製鉄(株),1591118.0,2.99,1.0,1591118.0,2026-03-31,as_reported
-9025,https://www.konoike.net/ir/stocks/stock/,discovered,61,"当社は自己株式を3,852,824株保有していますが、上記大株主からは除外しています。",3852824.0,7.253344997944807,1.0,3852824.0,2026-03-31,proxy_via_top_holder
+9025,https://www.konoike.net/ir/stocks/stock/,discovered,61,"当社は自己株式を3,852,824株保有していますが、上記大株主からは除外しています。",3852824.0,6.764984721814035,1.0,3852824.0,2026-03-31,vs_issued
+9075,https://corp.fukutsu.co.jp/ir/stock/info.html,discovered,-52,発行済株式総数,40194163.0,100.0,1.0,40194163.0,2026-03-31,as_reported
 9075,https://corp.fukutsu.co.jp/ir/stock/info.html,discovered,1,公益財団法人渋谷育英会,5590.0,15.76,1000.0,5590000.0,2026-03-31,as_reported
 9075,https://corp.fukutsu.co.jp/ir/stock/info.html,discovered,2,日本マスタートラスト信託銀行株式会社(信託口),3054.0,8.61,1000.0,3054000.0,2026-03-31,as_reported
 9075,https://corp.fukutsu.co.jp/ir/stock/info.html,discovered,3,日本生命保険相互会社,2020.0,5.69,1000.0,2020000.0,2026-03-31,as_reported
@@ -509,6 +567,9 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 9075,https://corp.fukutsu.co.jp/ir/stock/info.html,discovered,8,福山通運協力業者持株会,931.0,2.63,1000.0,931000.0,2026-03-31,as_reported
 9075,https://corp.fukutsu.co.jp/ir/stock/info.html,discovered,9,五洋建設株式会社,915.0,2.58,1000.0,915000.0,2026-03-31,as_reported
 9075,https://corp.fukutsu.co.jp/ir/stock/info.html,discovered,10,株式会社大創産業,873.0,2.46,1000.0,873000.0,2026-03-31,as_reported
+9075,https://corp.fukutsu.co.jp/ir/stock/info.html,discovered,61,"当社は、自己株式を4,717,014株保有しておりますが、上記大株主からは除外しております。",4717014.0,11.73556966467992,1.0,4717014.0,2026-03-31,vs_issued
+9075,https://corp.fukutsu.co.jp/ir/stock/info.html,discovered,61,"なお、自己株式(4,717,014株)には、日本マスタートラスト信託銀行株式会社(株式付与ESOP信託口)が保有する",4717014.0,11.73556966467992,1.0,4717014.0,2026-03-31,vs_issued
+9202,https://www.ana.co.jp/group/investors/stock/situation.html,discovered,-52,発行済株式総数,484293561.0,100.0,1.0,484293561.0,2026-03-31,as_reported
 9202,https://www.ana.co.jp/group/investors/stock/situation.html,discovered,1,日本マスタートラスト信託銀行株式会社(信託口),68436.0,14.88,1000.0,68436000.0,2026-03-31,as_reported
 9202,https://www.ana.co.jp/group/investors/stock/situation.html,discovered,2,株式会社日本カストディ銀行(信託口),14482.0,3.15,1000.0,14482000.0,2026-03-31,as_reported
 9202,https://www.ana.co.jp/group/investors/stock/situation.html,discovered,3,名古屋鉄道株式会社,7313.0,1.59,1000.0,7313000.0,2026-03-31,as_reported
@@ -519,6 +580,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 9202,https://www.ana.co.jp/group/investors/stock/situation.html,discovered,8,日本郵船株式会社,3926.0,0.85,1000.0,3926000.0,2026-03-31,as_reported
 9202,https://www.ana.co.jp/group/investors/stock/situation.html,discovered,9,日本生命保険相互会社,2914.0,0.63,1000.0,2914000.0,2026-03-31,as_reported
 9202,https://www.ana.co.jp/group/investors/stock/situation.html,discovered,10,東京海上日動火災保険株式会社,2423.0,0.53,1000.0,2423000.0,2026-03-31,as_reported
+9202,https://www.ana.co.jp/group/investors/stock/situation.html,discovered,61,"持株比率は自己株式(24,282千株)を控除して計算しています",24282.0,5.013901062376504,1000.0,24282000.0,2026-03-31,vs_issued
+9332,https://www.nisso-hd.com/ir/stock-bond/shareholder.html,discovered,-52,発行済株式総数,34024720.0,100.0,1.0,34024720.0,2026-03-31,as_reported
 9332,https://www.nisso-hd.com/ir/stock-bond/shareholder.html,discovered,1,NSホールディングス株式会社,13917400.0,41.33,1.0,13917400.0,2026-03-31,as_reported
 9332,https://www.nisso-hd.com/ir/stock-bond/shareholder.html,discovered,2,日本マスタートラスト信託銀行株式会社(信託口),1355800.0,4.03,1.0,1355800.0,2026-03-31,as_reported
 9332,https://www.nisso-hd.com/ir/stock-bond/shareholder.html,discovered,3,清水 唯雄,1019600.0,3.03,1.0,1019600.0,2026-03-31,as_reported
@@ -529,6 +592,7 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 9332,https://www.nisso-hd.com/ir/stock-bond/shareholder.html,discovered,8,株式会社シンシア,487000.0,1.45,1.0,487000.0,2026-03-31,as_reported
 9332,https://www.nisso-hd.com/ir/stock-bond/shareholder.html,discovered,9,清水 智湖,236000.0,0.7,1.0,236000.0,2026-03-31,as_reported
 9332,https://www.nisso-hd.com/ir/stock-bond/shareholder.html,discovered,10,大和証券株式会社,193256.0,0.57,1.0,193256.0,2026-03-31,as_reported
+9347,https://www.nkanzaihd.co.jp/ir/stockholder/,discovered,-52,発行済株式総数 (tanshin),41180306.0,100.0,1.0,41180306.0,2026-03-31,from_tanshin
 9347,https://www.nkanzaihd.co.jp/ir/stockholder/,discovered,1,日本サービスマスター有限会社,12552.0,34.56,1000.0,12552000.0,2026-03-31,as_reported
 9347,https://www.nkanzaihd.co.jp/ir/stockholder/,discovered,2,福田 慎太郎,2068.0,5.7,1000.0,2068000.0,2026-03-31,as_reported
 9347,https://www.nkanzaihd.co.jp/ir/stockholder/,discovered,3,日本マスタートラスト信託銀行株式会社 (信託口),1949.0,5.37,1000.0,1949000.0,2026-03-31,as_reported
@@ -539,18 +603,23 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 9347,https://www.nkanzaihd.co.jp/ir/stockholder/,discovered,8,日本管財ホールディングス取引先持株会,547.0,1.51,1000.0,547000.0,2026-03-31,as_reported
 9347,https://www.nkanzaihd.co.jp/ir/stockholder/,discovered,9,株式会社日本カストディ銀行(信託口),402.0,1.11,1000.0,402000.0,2026-03-31,as_reported
 9347,https://www.nkanzaihd.co.jp/ir/stockholder/,discovered,10,株式会社あおぞら銀行,357.0,0.98,1000.0,357000.0,2026-03-31,as_reported
+9347,https://www.nkanzaihd.co.jp/ir/stockholder/,discovered,61,"1 自己株式4,859,359株は「個人その他」に48,593単元及び「単元未満株式の状況」に59株含めて記載しております。",4859359.0,13.379497055449333,1.0,4859359.0,2026-03-31,proxy_via_top_holder
 9347,https://www.nkanzaihd.co.jp/ir/stockholder/,discovered,61,"1 上記のほか当社所有の自己株式4,859千株(発行済株式総数の11.80%)があります。",4859.0,13.378508604206502,1000.0,4859000.0,2026-03-31,proxy_via_top_holder
-9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,1,ソフトバンクグループジャパン株式会社,19148581.0,40.1,1.0,19148581.0,2026-03-31,as_reported
-9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,2,日本マスタートラスト信託銀行株式会社(信託口),4692652.0,9.81,1.0,4692652.0,2026-03-31,as_reported
-9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,3,株式会社日本カストディ銀行(信託口),1763859.0,3.69,1.0,1763859.0,2026-03-31,as_reported
-9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,4,SMBC日興証券株式会社,491520.0,1.03,1.0,491520.0,2026-03-31,as_reported
-9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,5,JPモルガン証券株式会社,489168.0,1.02,1.0,489168.0,2026-03-31,as_reported
-9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,6,STATE STREET BANK AND TRUST COMPANY 505001,429842.0,0.9,1.0,429842.0,2026-03-31,as_reported
-9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,7,JP MORGAN CHASE BANK 385781,419455.0,0.88,1.0,419455.0,2026-03-31,as_reported
-9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,8,ゴールドマン・サックス証券株式会社BNYM,315994.0,0.66,1.0,315994.0,2026-03-31,as_reported
-9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,9,JP MORGAN CHASE BANK 385642,259201.0,0.54,1.0,259201.0,2026-03-31,as_reported
-9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,10,株式会社日本カストディ銀行(信託口4),254208.0,0.53,1.0,254208.0,2026-03-31,as_reported
-9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,61,"当社は、自己株式170,725千株を保有していますが、上記大株主から除いています。また、「所有株式数の割合」は自己株式を控除して計算しています。",170725.0,357.523750715523,1000.0,170725000.0,2026-03-31,proxy_via_top_holder
+9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,-52,発行済株式総数,47971989.0,100.0,1000.0,47971989000.0,2026-03-31,as_reported
+9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,1,ソフトバンクグループジャパン株式会社,19148581.0,40.1,1000.0,19148581000.0,2026-03-31,as_reported
+9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,2,日本マスタートラスト信託銀行株式会社(信託口),4692652.0,9.81,1000.0,4692652000.0,2026-03-31,as_reported
+9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,3,株式会社日本カストディ銀行(信託口),1763859.0,3.69,1000.0,1763859000.0,2026-03-31,as_reported
+9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,4,第1回社債型種類株式,26.0,,1000.0,26000.0,2026-03-31,missing
+9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,5,第2回社債型種類株式,14.0,,1000.0,14000.0,2026-03-31,missing
+9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,6,SMBC日興証券株式会社,491520.0,1.03,1000.0,491520000.0,2026-03-31,as_reported
+9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,7,JPモルガン証券株式会社,489168.0,1.02,1000.0,489168000.0,2026-03-31,as_reported
+9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,8,STATE STREET BANK AND TRUST COMPANY 505001,429842.0,0.9,1000.0,429842000.0,2026-03-31,as_reported
+9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,9,JP MORGAN CHASE BANK 385781,419455.0,0.88,1000.0,419455000.0,2026-03-31,as_reported
+9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,10,ゴールドマン・サックス証券株式会社BNYM,315994.0,0.66,1000.0,315994000.0,2026-03-31,as_reported
+9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,11,JP MORGAN CHASE BANK 385642,259201.0,0.54,1000.0,259201000.0,2026-03-31,missing
+9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,12,株式会社日本カストディ銀行(信託口4),254208.0,0.53,1000.0,254208000.0,2026-03-31,missing
+9434,https://www.softbank.jp/corp/ir/stock/info/,discovered,61,"当社は、自己株式170,725千株を保有していますが、上記大株主から除いています。また、「所有株式数の割合」は自己株式を控除して計算しています。",170725.0,0.35588476433612126,1000.0,170725000.0,2026-03-31,vs_issued
+9474,https://www.zenrin.co.jp/company/ir/stock/stock/index.html,discovered,-52,発行済株式数,57301365.0,100.0,1.0,57301365.0,2026-03-31,as_reported
 9474,https://www.zenrin.co.jp/company/ir/stock/stock/index.html,discovered,1,有限会社サンワ,5271.0,9.81,1000.0,5271000.0,2026-03-31,as_reported
 9474,https://www.zenrin.co.jp/company/ir/stock/stock/index.html,discovered,2,トヨタ自動車株式会社,4272.0,7.95,1000.0,4272000.0,2026-03-31,as_reported
 9474,https://www.zenrin.co.jp/company/ir/stock/stock/index.html,discovered,3,NTT株式会社,4200.0,7.82,1000.0,4200000.0,2026-03-31,as_reported
@@ -561,6 +630,9 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 9474,https://www.zenrin.co.jp/company/ir/stock/stock/index.html,discovered,8,大迫ホールディングス株式会社,1895.0,3.53,1000.0,1895000.0,2026-03-31,as_reported
 9474,https://www.zenrin.co.jp/company/ir/stock/stock/index.html,discovered,9,大迫 キミ子,1351.0,2.51,1000.0,1351000.0,2026-03-31,as_reported
 9474,https://www.zenrin.co.jp/company/ir/stock/stock/index.html,discovered,10,株式会社日本カストディ銀行(信託口),1294.0,2.41,1000.0,1294000.0,2026-03-31,as_reported
+9474,https://www.zenrin.co.jp/company/ir/stock/stock/index.html,discovered,61,"※当社は自己株式(3,624千株)を所有しておりますが、上記の大株主には含めておりません。また、持株比率は自己株式を控除して計算しています。",3624.0,6.324456668702395,1000.0,3624000.0,2026-03-31,vs_issued
+9501,https://www.tepco.co.jp/about/ir/stockinfo/breakdown.html,discovered,-52,発行済株式総数,1607017.0,100.0,10000.0,16070170000.0,2026-03-31,as_reported
+9501,https://www.tepco.co.jp/about/ir/stockinfo/breakdown.html,discovered,-52,発行済株式総数,1600000.0,100.0,10000.0,16000000000.0,2026-03-31,as_reported
 9501,https://www.tepco.co.jp/about/ir/stockinfo/breakdown.html,discovered,1,原子力損害賠償・廃炉等支援機構,1940000.0,54.75,1000.0,1940000000.0,2026-03-31,as_reported
 9501,https://www.tepco.co.jp/about/ir/stockinfo/breakdown.html,discovered,2,日本マスタートラスト信託銀行株式会社(信託口),197048.0,5.56,1000.0,197048000.0,2026-03-31,as_reported
 9501,https://www.tepco.co.jp/about/ir/stockinfo/breakdown.html,discovered,3,株式会社日本カストディ銀行(信託口),53509.0,1.51,1000.0,53509000.0,2026-03-31,as_reported
@@ -571,8 +643,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 9501,https://www.tepco.co.jp/about/ir/stockinfo/breakdown.html,discovered,8,THE BANK OF NEW YORK MELLON 140044,23610.0,0.67,1000.0,23610000.0,2026-03-31,as_reported
 9501,https://www.tepco.co.jp/about/ir/stockinfo/breakdown.html,discovered,9,JP MORGAN CHASE BANK 385781,21873.0,0.62,1000.0,21873000.0,2026-03-31,as_reported
 9501,https://www.tepco.co.jp/about/ir/stockinfo/breakdown.html,discovered,10,株式会社三井住友銀行,17963.0,0.51,1000.0,17963000.0,2026-03-31,as_reported
-9501,https://www.tepco.co.jp/about/ir/stockinfo/breakdown.html,discovered,61,"発行済株式総数に対する所有株式数の割合は、自己株式(普通株式3,394,852株)を控除して計算しています。",3394852.0,0.09580832319587629,1.0,3394852.0,2026-03-31,proxy_via_top_holder
-9535,https://www.hiroshima-gas.co.jp/com/ir/stock_bond/stock_bond_04.html,discovered,-52,発行済株式総数,54745180.0,100.0,1.0,54745180.0,2026-03-31,as_reported
+9501,https://www.tepco.co.jp/about/ir/stockinfo/breakdown.html,discovered,61,"発行済株式総数に対する所有株式数の割合は、自己株式(普通株式3,394,852株)を控除して計算しています。",3394852.0,0.021125177891708674,1.0,3394852.0,2026-03-31,vs_issued
+9535,https://www.hiroshima-gas.co.jp/com/ir/stock_bond/stock_bond_04.html,discovered,-52,発行済株式総数,68737429.0,100.0,1.0,68737429.0,2026-03-31,as_reported
 9535,https://www.hiroshima-gas.co.jp/com/ir/stock_bond/stock_bond_04.html,discovered,1,岩谷産業株式会社,7607.0,11.06,1000.0,7607000.0,2026-03-31,as_reported
 9535,https://www.hiroshima-gas.co.jp/com/ir/stock_bond/stock_bond_04.html,discovered,2,明治安田生命保険相互会社,3855.0,5.6,1000.0,3855000.0,2026-03-31,as_reported
 9535,https://www.hiroshima-gas.co.jp/com/ir/stock_bond/stock_bond_04.html,discovered,3,日本マスタートラスト信託銀行株式会社(信託口),3130.0,4.55,1000.0,3130000.0,2026-03-31,as_reported
@@ -583,7 +655,8 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 9535,https://www.hiroshima-gas.co.jp/com/ir/stock_bond/stock_bond_04.html,discovered,8,千田興業株式会社,1381.0,2.01,1000.0,1381000.0,2026-03-31,as_reported
 9535,https://www.hiroshima-gas.co.jp/com/ir/stock_bond/stock_bond_04.html,discovered,9,広島ガス自社株投資会,1298.0,1.88,1000.0,1298000.0,2026-03-31,as_reported
 9535,https://www.hiroshima-gas.co.jp/com/ir/stock_bond/stock_bond_04.html,discovered,10,三菱UFJ信託銀行株式会社,1100.0,1.6,1000.0,1100000.0,2026-03-31,as_reported
-9535,https://www.hiroshima-gas.co.jp/com/ir/stock_bond/stock_bond_04.html,discovered,61,"※持株比率は、自己株式(1,856株)を控除して計算しております。",1856.0,0.003390252803991146,1.0,1856.0,2026-03-31,vs_issued
+9535,https://www.hiroshima-gas.co.jp/com/ir/stock_bond/stock_bond_04.html,discovered,61,"※持株比率は、自己株式(1,856株)を控除して計算しております。",1856.0,0.002700130084877047,1.0,1856.0,2026-03-31,vs_issued
+9739,https://www.nsw.co.jp/ir/stocks.html,discovered,-52,発行済株式数,14900000.0,100.0,1.0,14900000.0,2026-03-31,as_reported
 9739,https://www.nsw.co.jp/ir/stocks.html,discovered,1,株式会社タダ・コーポレーション,5000.0,33.55,1000.0,5000000.0,2026-03-31,as_reported
 9739,https://www.nsw.co.jp/ir/stocks.html,discovered,2,多田 修人,1537.0,10.31,1000.0,1537000.0,2026-03-31,as_reported
 9739,https://www.nsw.co.jp/ir/stocks.html,discovered,3,日本マスタートラスト信託銀行株式会社(信託口),1049.0,7.04,1000.0,1049000.0,2026-03-31,as_reported
@@ -594,6 +667,6 @@ code,homepage,source_kind,dataid,holdername,shares,ratiopct,scale,adjshares,asof
 9739,https://www.nsw.co.jp/ir/stocks.html,discovered,8,BNP PARIBAS,,,,,,missing
 9739,https://www.nsw.co.jp/ir/stocks.html,discovered,9,多田 尚二,318.0,2.13,1000.0,318000.0,2026-03-31,as_reported
 9739,https://www.nsw.co.jp/ir/stocks.html,discovered,10,多田 直樹,300.0,2.01,1000.0,300000.0,2026-03-31,as_reported
-9739,https://www.nsw.co.jp/ir/stocks.html,discovered,61,※持株比率は自己株式(623株)を控除して計算しております。,623.0,0.0041803299999999995,1.0,623.0,2026-03-31,proxy_via_top_holder
+9739,https://www.nsw.co.jp/ir/stocks.html,discovered,61,※持株比率は自己株式(623株)を控除して計算しております。,623.0,0.004181208053691275,1.0,623.0,2026-03-31,vs_issued
 9739,https://www.nsw.co.jp/ir/stocks.html,discovered,,,,,,,,missing
 9739,https://www.nsw.co.jp/ir/stocks.html,discovered,,355,2.38,1000.0,355000.0,,,missing
